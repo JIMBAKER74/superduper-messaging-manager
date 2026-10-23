@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!-- Toast text when user tries to compose while we are not the default SMS app -->
+    <string name="compose_disabled_toast">Can\'t compose. Not default SMS app.</string>
+    
+    <string name="banner_sms_promo_title_application"><xliff:g id="appName">%s</xliff:g> is your SMS app</string>
+    <string name="banner_sms_promo_message">You can change this in Settings</string>
+    
+    <string name="welcomeTermsLinkLbl2Txt">Fast-Free-Easy Text Messaging</string>
+    <string name="welcomeTermsLinkLblTxt">View Terms and Conditions</string>
+    
+    <string name="setupLblTxt">Set your preferences</string>
+    <string name="setupNotificationsCheckLblTxt">Turn ON notifications</string>
+    <string name="setupNotificationsSoundCheckLblTxt">Sound</string>
+    <string name="setupNotificationsVibrateCheckLblTxt">Vibrate</string>
+    <string name="setupNotificationsQuickReplyCheckLblTxt">Turn ON quick reply</string>
+    <string name="setupNotificationsPopUpCheckLblTxt">Show pop-up</string>
+    <string name="setupNotificationsWakeUnlockCheckLblTxt">Wake and unlock (insecure lock screens only)</string>
+    <string name="setupNotificationsCloseAllCheckLblTxt">Close button closes all messages</string>
+</resources>
+

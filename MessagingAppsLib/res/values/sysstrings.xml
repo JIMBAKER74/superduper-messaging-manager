@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="sysBlank"></string>
+	<string name="sysOK">OK</string>
+	<string name="sysDone">Done</string>
+	<string name="sysCancel">Cancel</string>
+	<string name="sysCancelExit">Cancel/Exit</string>
+	<string name="sysBack">Go Back</string>
+	<string name="sysYes">Yes</string>
+	<string name="sysNo">No</string>
+	<string name="sysSave">Save</string>
+	<string name="sysNext">Next</string>
+	<string name="sysExit">Exit</string>
+	<string name="sysPleaseWait">Please Wait...</string>
+	<string name="sysDoNotShow">(Do not show this again)</string>
+	<string name="sysInputMethod">Change Input Method</string>
+	<string name="sysInputMethodNull">Android Error: Cannot Select Input Method</string>
+	<string name="sysSendingEmail">Sending email</string>
+		
+	<string name="sysMsgLockLbl">Locked</string>
+	<string name="sysMsgSent">Sent</string>
+	<string name="sysMsgDelivered">(D) Sent</string>
+	<string name="sysMsgNotSent">Not Sent</string>
+	<string name="sysMsgNotSentForbidden">Not Sent (Forbidden)</string>
+	<string name="sysMsgNotDelivered">Not Delivered</string>
+	<string name="sysMsgNoMsgs">No new messages...</string>
+	<string name="sysMsgNewMsg">New Message</string>
+	<string name="sysMsgNewMsgs">New Messages</string>
+	<string name="sysMsgNewMissedCall">Missed Call</string>
+	<string name="sysMsgNewMissedCalls">Missed Calls</string>
+	<string name="sysMsgSendErrorMsg">Send Error</string>
+	<string name="sysMsgSendErrorsMsg">Send Errors</string>
+	<string name="sysMsgDeliveryErrorMsg">Delivery Error</string>
+	<string name="sysMsgDeliveryErrorsMsg">Delivery Errors</string>
+	<string name="sysMsgOutgoingCall">Made</string>
+	<string name="sysMsgLoading">Loading Messages</string>
+	<string name="sysMsgExportCount">Exporting Messages</string>
+	<string name="sysMsgExportNoCount">Exporting messages...</string>
+	<string name="sysMsgExportCanceled">Export Canceled</string>
+	
+	<string name="sysMsgSentOK">Message sent</string>
+	<string name="sysMsgDeleted">Message Deleted</string>
+	<string name="sysMsgGenPhoneError">Message not sent: General phone error</string>
+	<string name="sysMsgNoService">Message not sent: No phone service</string>
+	<string name="sysMsgCorrupt">Message not sent: Message corrupt</string>
+	<string name="sysMsgPhoneSigOff">Message not sent: Phone signal off (e.g. Airplane mode)</string>
+	
+	<string name="sysMsgDeliveredText">Message delivered</string>
+	<string name="sysMsgDeliveryError">Error delivering message...</string>
+	<string name="sysContactListBlockedStartDescr">Incoming</string>
+	<string name="sysContactListBlockedEndDescr">Blocked</string>
+	
+</resources>

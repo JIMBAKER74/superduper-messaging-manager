@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="scanLightRed">#FF991111</color>
+    <color name="scanRed">#FF990000</color>
+    <color name="scanBtnRed">#FFBB1111</color>
+    <color name="scanDarkRed">#FF990000</color>
+    <color name="scanBtnOrange">#FFBB6600</color>
+    <color name="scanOrange">#FFBB6600</color>
+    <color name="scanBtnOrange">#FFBB6600</color>
+    <color name="scanDarkOrange">#FFAA4400</color>
+    <color name="scanYellow">#FF888800</color>
+    <color name="scanBtnYellow">#FFBBBB00</color>
+    <color name="scanDarkYellow">#FF999900</color>
+    <color name="scanLightGreen">#FF119911</color>
+    <color name="scanGreen">#FF008800</color>
+    <color name="scanBtnGreen">#FF00BB00</color>
+    <color name="scanDarkGreen">#FF009900</color>
+    
+    <string name="scanAppNameUnknown"></string>
+
+    <string name="statusNotificationTitle">SDMM Install Scan</string>
+    <string name="statusNotificationTicker">SDMM Install Scan</string>
+    <string name="statusNotificationText">SDMM detected an app that has compatible messaging.</string>
+    <string name="statusNotificationID">install_scan</string>
+    
+    <string name="scanHomeScanBtnTxt">Scan Now</string>
+    <string name="scanHomeScanTitleTxt">Antispy Scan</string>
+    <string name="scanHomeScanDescrTxt">Scan for spyware/spy apps</string>
+    <string name="scanHomeViewScanBtnTxt">View Scans</string>
+    <string name="scanHomeViewScanTitleTxt">View Recent Scans</string>
+    <string name="scanHomeViewScanDescrTxt">See previous scan(s)/scan history</string>
+    <string name="scanHomeUpdateBtnTxt">Update</string>
+    <string name="scanHomeUpdateTitleTxt">Check for antispy update</string>
+    <string name="scanHomeUpdateDescrTxt">Make sure you scan for the most recent spyware</string>
+    <string name="scanHomeLoginBtnTxt">Login</string>
+    <string name="scanHomeLoginTitleTxt">Subscription Options</string>
+    <string name="scanHomeLoginDescrTxt">Antispy subscription settings and options</string>
+
+    <string name="viewAppsActName">View Apps and Scan</string>
+    <string name="viewAppsScanBtnTxt">Scan Now</string>
+    <string name="viewAppsScanTitleTxt">Start Scan</string>
+    <string name="viewAppsScanDescrTxt">Scan now for SMS Apps</string>
+    <string name="viewAppsViewSafeAppsBtnTxt">View\nApps</string>
+    <string name="viewAppsViewSafeAppsTitleTxt">Non-SMS Apps</string>
+    <string name="viewAppsViewSafeAppsDescrTxt">Apps not using SMS</string>
+    <string name="viewAppsViewSafeAppsDescrTxt2">Apps you marked as not using SMS</string>
+    <string name="viewAppsViewUnknownAppsBtnTxt">View\nApps</string>
+    <string name="viewAppsViewUnknownAppsTitleTxt">Secondary SMS Apps</string>
+    <string name="viewAppsViewUnknownAppsDescrTxt">Apps using SMS but are not eligible to be the Default SMS app</string>
+    <string name="viewAppsViewUnknownAppsDescrTxt2">Apps you suspect might be using SMS</string>
+    <string name="viewAppsViewUnsafeAppsBtnTxt">View\nApps</string>
+    <string name="viewAppsViewUnsafeAppsTitleTxt">Messaging Apps</string>
+    <string name="viewAppsViewUnsafeAppsDescrTxt">Apps eligible as the Default Messaging App</string>
+    <string name="viewAppsViewUnsafeAppsDescrTxt2"></string>
+    <string name="viewAppsScanBtnProgressTxt">Scanning</string>
+    <string name="viewAppsScanProgressDescrTxt">Initializing scan...</string>
+    <string name="viewAppsScanProgressDescrTxt2">Scanning for compatible apps...</string>
+    <string name="viewAppsScanProgressDescrTxt3">Compiling scan results...</string>
+    <string name="viewAppsScanBtnCompleteTxt">New Scan</string>
+    <string name="viewAppsScanTitleProgressTxt">Scanning...</string>
+    <string name="viewAppsScanTitleCompleteTxt">Scan Completed</string>
+    <string name="viewAppsScanDescrProgressTxt">Scan is in progress now</string>
+    <string name="viewAppsScanDescrCompleteTxt">Current scan results displayed below.</string>
+    
+    <string name="appsListActName">Installed Apps</string>
+    <string name="appsListTitle1Txt">Non-SMS Apps</string>
+    <string name="appsListTitle2Txt">Apps Using SMS</string>
+    <string name="appsListTitle3Txt">Messaging Apps</string>
+    <string name="appsListTitle4Txt">Compatible Messaging Apps</string>
+    <string name="appsListTitle5Txt">Incompatible Messaging Apps</string>
+    
+    <string name="scanListActName">Installed Apps</string>
+    <string name="scanListItemSysAppDescr">*** System App ***</string>
+    <string name="scanListItemUserListDescr">Added to List by User</string>
+    <string name="scanListItemViewBtnTxt">View</string>
+    <string name="scanListItemMarkSafeBtnTxt">App is\nSafe</string>
+    <string name="scanListItemMarkUnsafeBtnTxt">This is\nSpyware</string>
+    <string name="scanListItemMarkIdkBtnTxt">Put on\nWatchlist</string>
+    <string name="scanListItemUninstallTxt">Uninstall\nApp</string>
+    <string name="scanListItemUninstalledTxt">App uninstalled:</string>
+    <string name="scanListEmpty">No Scanned items found.\n\n
+        Once you run a scan, the scanned items will appear here.\n\n
+        You can change the classification of an app once it is scanned, and we will be notified of the change.\n\n
+        In a future update, we will verify the classification of the app.</string>
+
+    <string name="scanListItemMovedToSafeListTxt">was moved to the \"Safe\" list</string>
+    <string name="scanListItemMovedToWatchlistTxt">was moved to the \"Watchlist\"</string>
+    <string name="scanListItemMovedToUnsafeListTxt">was moved to the \"Spyware\" list</string>
+    <string name="scanItemActName">SPA Scanned App Info</string>
+    <string name="scanItem">SPA Scanned App Info</string>
+
+ 	<string name="scanHistoryListTitle">Scan Date</string>
+ 	<string name="scanHistoryListTotalAppsDescr">Total Apps Scanned</string>
+ 	<string name="scanHistoryListSafeAppsDescr">Safe Apps</string>
+ 	<string name="scanHistoryListWatchlistAppsDescr">Watchlist Apps</string>
+ 	<string name="scanHistoryListUnsafeAppsDescr">Spyware Apps</string>
+ 	 		
+    <string name="scanUpdateCheckWaitTitle">Checking for Updates</string>
+    <string name="scanUpdateCheckWaitMsg">Please wait...</string>
+    <string name="scanUpdateCheckErrorMsg">Error checking for update. Please try again.</string>
+
+    <string name="scanUpdateActName">Antispy Updates</string>
+    <string name="scanUpdateCheckBtnTxt">Check\nNow</string>
+    <string name="scanUpdateCheckTitleTxt">Check for Update(s)</string>
+    <string name="scanUpdateCheckDescrTxt">Check for updated spyware and app updates</string>
+    <string name="scanUpdateDefsBtnTxt">Update</string>
+    <string name="scanUpdateDefsTitleTxt">Spyware Update Available</string>
+    <string name="scanUpdateDefsDescrTxt">A spyware definition update is available.</string>
+    <string name="scanUpdateAppBtnTxt">Update</string>
+    <string name="scanUpdateAppTitleTxt">App Update Available</string>
+    <string name="scanUpdateAppDescrTxt">An update for this app is available\n(Feature enhancements/bug fixes)</string>
+    <string name="scanUpdateNoUpdatesAvailable">No updates available at this time.  Your app is current.</string>
+    <string name="btnUpdate">Update</string>
+</resources>

@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Super Duper SMS</string>
+    <string name="app_label">Super Duper SMS</string>
+    <string name="MMS_APP_PACKAGE">com.superdupersms.app</string>
+    
+    <string name="SDSMS_ID">com.superdupersms.app</string>
+    
+    <!-- The name of the SMS/MMS app as it appears to the user in the Home screen, task switcher, etc. -->
+    <string name="app_label">Super Duper SMS</string>
+    
+    <!-- Title of the welcome activity. -->
+    <string name="welcome_activity">Super Duper SMS</string>
+
+    <!-- Title of the preferences setup activity. -->
+    <string name="setup_prefs_activity">Setup Super Duper SMS</string>
+
+    <!-- Application name shown when searching -->
+
+    <string name="search_label">Super Duper SMS</string>
+    <!-- Search hint -->
+    <string name="search_hint">Super Duper SMS</string>
+
+    <!-- Search activity name -->
+    <string name="search">Super Duper SMS</string>
+    
+    <!-- Message of the dialog used to disable messaging notifications [CHAR LIMIT=none] -->
+    <string name="disable_notifications_dialog_message">Stop duplicate text message notifications from Super Duper SMS?</string>
+
+    <!--- Button description in preferences to clear the search history. -->
+    <string name="pref_mms_clear_search_history_summary">Clear previous Super Duper SMS searches from showing up in the Search box</string>
+    
+    <string name="pending_mms">Super Duper SMS: One or more MMS are pending.</string>
+    <string name="abort_mms">Super Duper SMS: Abort MMS</string>
+    <string name="progress_mms">Super Duper SMS: MMS in progress...</string>
+    
+    <!-- Banner in conversation list for making Messaging the default SMS app -->
+    <string name="banner_sms_promo_title_initial">Super Duper SMS is not your SMS app</string>
+    
+    <string name="welcomeCommentsLblTxt">Welcome to Super Duper SMS</string>
+
+    <string name="gotxtmeChangeDefSmsTitleTxt">Time to make Super Duper SMS your Default SMS</string>
+    <string name="gotxtmeChangeDefSmsDescrTxt">To enable all features, set Super Duper SMS as your default app.</string>
+    <string name="gotxtmeChangeDefSmsChangeTxt">Go Now</string>
+    <string name="gotxtmeChangeDefSmsNoChangeTxt">No Thanks</string>
+    
+    <string name="templateUri">content://com.superdupersms/templates</string>
+    <string name="templateProviderType">vnd.android.cursor.dir/vnd.com.superdupersms.template</string>
+    <string name="templateAuthority">com.superdupersms</string>
+    <string name="suggestionsAuthority">com.superdupersms.superdupermms.mms.SuggestionsProvider</string>
+    <string name="scrapContentUri">content://superdupersms_temp_file/scrapSpace</string>
+    <string name="scrapContentAuthority">superdupersms_temp_file</string>
+    <string name="themePackagePrefix">com.superdupersms.theme</string>
+    
+    <string name="aboutUsActName">About Us</string>
+    <string name="aboutUsSubTitleLblTxt"><i>Super Duper SMS</i></string>
+    <string name="aboutUsLbl1Txt"><b>Super Duper SMS</b>
+        \n
+        \n<i>End User License Agreement,
+        \nTERMS OF USE
+        \nand Privacy Policy Notice</i>
+        \n
+        \nIn the Applications list as:</string>
+    <string name="aboutUsLbl2Txt">by: <b>Messaging Apps, LLC</b></string>
+    <string name="aboutUsLbl3Txt">http://www.superdupersms.com</string>
+    <string name="aboutUsLbl4Txt">
+		\nPlease send us your comments and suggestions: support@superdupersms.com
+		\n
+        \nWe create applications for entertainment and personalization.
+        We take your privacy seriously.
+    	We collect data without personally identifying you (such as location data) for monetization purposes.
+    	Please refer to our privacy policy below for details.
+    	\n
+    	\nhttp://superdupersms.com/privacy_policy.html
+    	\n
+    	\nAggregated device data, including location, is measured for the purposes of market research by Placed, Inc.
+		\n
+		\nPlaced, Inc. - Terms of Use: http://www.placed.com/terms-of-service-panelist
+		\nPlaced, Inc. - Privacy Policy: http://www.placed.com/privacy-policy
+	</string>
+	<string name="welcome_activity">Welcome to Super Duper SMS</string>
+	<string name="setup_prefs_activity">Super Duper SMS Setup</string>
+	<string name="welcomeCommentsLblTxt">Welcome to Super Duper</string>
+    <string name="welcomeTermsLinkLbl2Txt">Super Duper way to manage text messages</string>
+    <string name="aboutPrivacyActName">Privacy Policy</string>
+    <string name="privacyRejectBtnTxt">Reject</string>
+    <string name="privacyAcceptTermsTxt">Accept</string>
+    <string name="privacyAcceptConfirmHeaderTxt">Accept EULA and TOS?</string>
+    <string name="privacyRejectConfirmHeaderTxt">Close App</string>
+    <string name="privacyRejectConfirmTxt">Are you sure you want to reject the \"End User License Agreement\" and not use this app?</string>
+    <string name="privacyAcceptConfirmTxt">Do you accept the \"End User License Agreement\" and \"Terms of Service\" and want to continue to use this app?</string>
+    <string name="privacyAcceptBtnTxt">Continue</string>
+    <string name="privacyAcceptTermsChkTxt">I agree to the Terms of Use</string>
+    <string name="privacyTitleTxt"><b>TERMS OF USE
+        \n and Privacy Policy Notice</b></string>
+    <string name="privacyNoticeSummaryTxt"><b>Privacy Policy Summary</b>
+        \n
+        \nWe take privacy seriously. 
+        We know your device has personally identifying information, and we do not want it.
+        \n
+        \nWe collect and use information for improving features, advertising and marketing purposes.
+        \n
+        \nThis app, like many others, can collect a lot of personal information from your device.
+        \n
+        \nWe keep your identity anonymous and use any anonymous personal information for product development, advertising and marketing purposes. 
+        We also sell similar anonymous data to partners and affiliates.
+        \n
+        \nWe do not store personally identifying information off of your phone unless you explicitly grant permission and would expect it.
+        (For example, to back up data or recover a password, if we offer the option.)
+        \n
+        \nTo use this app, you agree to allow us to collect and use data from your device (please indicate below).
+        We do not have an opt-out option. Please see our privacy policy located on our website indicated above for details.
+        \n
+        \n<b>Terms of Use</b>
+        \n
+        \n All use is subject to the End User License Agreement. 
+        It is important to know that some software is licensed under the Apache License, Version 2 and, where applicable, all such use and software is available under said license. 
+        If you have questions or need more information related to this, please contact us.
+    </string>
+    
+    <string name="privacyNoticeTxt">
+		<b>MESSAGING APPS LLC END USER LICENSE AGREEMENT</b>
+		\n
+		\n<b>PLEASE READ AND MAKE SURE YOU UNDERSTAND ALL THE FOLLOWING TERMS AND CONDITIONS CAREFULLY BEFORE ACCEPTING OR AGREEING TO THIS AGREEMENT OR ACCESSING OR USING THE SOFTWARE OR ANY ASSOCIATED SERVICES.</b>
+		\n
+		\nThis End User License Agreement (hereinafter referred to as this "Agreement") is made by and between MESSAGING APPS, LLC. (hereinafter referred to as "MAPP") and the person purchasing or obtaining the license to the Software (hereinafter referred to as "you" and "your") on a voluntary basis for the downloading, installation, access, and use of the MAPP software for which this Agreement is provided for acceptance by you (together with all associated information, documentation and software, the "Software") and the receipt and use of any services that MAPP agrees to make available or provide in connection with the access or use of the Software (the "Associated Services," and together with the Software, the "MAPP Services") by you, on a single mobile device that you own or control (such mobile device, the "Device").
+		\n
+		\n<b>I. ACCESS RIGHT; ACCEPTANCE</b>
+		\n
+		\nYOUR AGREEMENT TO AND ACCEPTANCE OF THIS AGREEMENT IS A CONDITION PRECEDENT FOR EXERCISING ANY OF THE RIGHT TO TAKE A LICENSE TO THE SOFTWARE TO ACCESS AND USE THE SOFTWARE BY YOU ON THE DEVICE AND THE RIGHT TO RECEIVE THE ASSOCIATED SERVICES (COLLECTIVELY, SUCH RIGHTS THE "ACCESS RIGHT") THAT YOU RECEIVED FROM MAPP OR FROM A DISTRIBUTOR OR SELLER (SUCH AS A STORE OFFERING SUCH RIGHTS UNDER AGREEMENT WITH MAPP) AUTHORIZED BY MAPP TO SELL YOU THE RIGHT ("AUTHORIZED RESELLER"), YOU WILL BE IRREVOCABLY, IRREFUTABLY, AND CONCLUSIVELY DEEMED TO HAVE READ, UNDERSTOOD, AND HAVE ACCEPTED AND AGREED TO THIS AGREEMENT IF YOU CLICK OR ACTIVATE THE “I ACCEPT” OR “I AGREE” OR OTHER BUTTON OR SPACE SIGNIFYING OR CONFIRMING YOUR AGREEMENT TO THIS AGREEMENT AND ALL OF THE TERMS OF THIS AGREEMENT, OR IF YOU FIRST DOWNLOAD, INSTALL, ACCESS, OR USE THE SOFTWARE, WHICHEVER OCCURS EARLIER (“YOUR ACCEPTANCE”). YOUR ACCEPTANCE IS A CONDITION PRECEDENT FOR THE EFFECTIVENESS OF THE LICENSE. IF YOU DO NOT OR CANNOT AGREE TO THIS AGREEMENT, YOU MAY NOT ACCESS, LOAD, OR USE THE SOFTWARE OR ANY ASSOCIATED SERVICES AND MUST EXIT IMMEDIATELY, DO NOT LOAD, ACCESS, OR USE, AND CEASE LOADING, ACCESSING, OR USING, THE SOFTWARE IN ANY MANNER AND COMPLETELY REMOVE THE SOFTWARE FROM YOUR DEVICE. EACH ACCESS TO OR USE OF THE SOFTWARE OR ANY ASSOCIATED SERVICES BY YOU IS AND SHALL BE DEEMED TO BE YOUR RATIFICATION OF AND AGREEMENT TO THIS AGREEMENT.
+		\n
+		\n<b>II. MODIFICATION OF THIS AGREEMENT</b>
+		\n
+		\nMAPP MAY MODIFY, AMEND, CHANGE, AND ALTER THIS AGREEMENT OR ANY OF THE TERMS OF THIS AGREEMENT AT ANY TIME AND NOTIFY YOU OF SUCH MODIFICATION, AMENDMENT, CHANGE, AND ALTERATION AND REQUIRE YOUR CONSENT OR CONFIRMATION AS A CONDITION PRECEDENT TO THE CONTINUED ACCESS TO AND USE OF THE SOFTWARE. YOUR CONFIRMATION AND CONSENT, AND ANY ACCESS TO AND USE OF THE SOFTWARE OR ANY ASSOCIATED SERVICES THEREAFTER, SHALL BE DEEMED TO BE YOUR AGREEMENT TO SUCH MODIFICATION, AMENDMENT, CHANGE, OR ALTERATION AND YOUR RATIFICATION OF THIS AGREEMENT SO MODIFIED, AMENDED, CHANGED, OR ALTERED. EACH ACCESS TO OR USE OF THE SOFTWARE OR ANY ASSOCIATED SERVICES THEREAFTER BY YOU IS AND SHALL BE DEEMED TO BE YOUR RATIFICATION OF AND AGREEMENT TO THIS AGREEMENT AS SO MODIFIED, AMENDED, CHANGED, OR ALTERED..
+		\n
+		\nIf you have any questions about this Agreement, please contact Super Duper SMS at support@superdupersms.com.
+		\n
+		\n<b>III. LICENSE; USE OF THE SOFTWARE.</b>
+		\n
+		\nMAPP hereby grants to you a limited, non-exclusive, terminable, revocable, non- sublicensable, non-assignable, and non-transferable license to download and install the Software solely on the Device and to access and use the Software solely on and from the Device as downloaded and installed thereon, and to use the Associated Services related to such access and use, only for your personal non-commercial use (except solely if and to the extent otherwise expressly approved in advance in writing by MAPP or required under applicable law) in accordance with the terms and conditions of this Agreement, including, without limitation, the provisions of this Section III (the "License"). You must, download, install, access, and use the Software in compliance with all applicable law and the provisions, policies, and terms in this Agreement.
+		\n
+		\nThe Software and Associated Services include such elements, features, and/or services as MAPP makes available to you as part of the Software and the Associated Services under this Agreement, subject to any Modification. The License, the Software, the Associated Services, and terms under this Agreement will or may also depend on whether the License is a Paid Open Market License, a Trial Period License, or a No-Charge Open Market License:
+		\n
+		\nThe License is a "Paid Open Market License" if you received the Access Right by purchasing it directly from MAPP or a mobile or online Authorized Reseller without use of an Activation Code.
+		\n
+		\nThe License is a "Trial Period License" if you received the Access Right expressly from MAPP or an Authorized Reseller for a limited time period on a trial basis without requirement to pay any License Fee for such time period (such time period being the "Trial Period").
+		\n
+		\nThe License is a "No-Charge Open Market License" if you received the Access Right without charge of any License Fee from MAPP or from an third party provider authorized by MAPP to provide such Access Right without charge of a License Fee. In the event that the License is a No-Charge Open Market License, the Software will or may include fewer elements or features or less access or use abilities than under the Activation Code License, the Paid Open Market License, or the Trial Period License.
+		\n
+		\nMAPP may (if, as, and when it decides to do so in its sole discretion – without any obligation – without need for any approval, agreement, or consent by, or notice to, you or any third party) install or make available to you any update to the Software and/or the Associated Services, including, without limitation, modification, error correction, update, upgrade, alteration, enhancement, or change of or to the software application defined in this Agreement as the "Software" ("Modification"). Upon installation or making available any Modification, the Software shall be deemed licensed solely with such Modification and shall become unlicensed if used without such Modification, and the term "Software" shall be deemed to include such Modification.
+		\n
+		\nANY ACCESS, EXECUTION, OR USE OF THE SOFTWARE, THE ASSOCIATED SERVICES, OR ANY PART THEREOF OTHER THAN AS EXPRESSLY PERMITTED UNDER THIS AGREEMENT, OR FOR ANY PURPOSE OR REASON NOT IN ACCORDANCE WITH A PURPOSE OR REASON PERMITTED UNDER THIS AGREEMENT OR BY MAPP, SHALL BE DEEMED TO BE AN INFRINGEMENT OF MAPP’S INTELLECTUAL PROPERTY RIGHTS IN THE SOFTWARE OR THE ASSOCIATED SERVICES AND SUBJECT TO ALL RIGHTS AND REMEDIES OF MAPP ARISING FROM OR IN CONNECTION WITH SUCH AN INFRINGEMENT.
+		\n
+		\nYou shall not, and shall not permit any third parties to, in any manner:
+		\n
+		\n1. modify, alter, amend, fix, translate, enhance or otherwise create derivative works of the Software and/or the Associated Services;
+		\n
+		\n2. reverse engineer, disassemble, decompile, decode or adapt the Software and/or the Associated Services, or otherwise attempt to derive or gain access to the source code of the Software and/or the Associated Services, in whole or in part, except as and only to the extent this restriction is prohibited by law;
+		\n
+		\n3. remove, disable, or otherwise create or implement any workaround to any security features contained in the Software and/or the Associated Services;
+		\n
+		\n4. remove, delete or alter any trademark or copyright notices or other Intellectual Property Rights (as defined in Section VI of this Agreement) notices of MAPP or its licensors, if any, from the Software and/or the Associated Services;
+		\n
+		\n5. copy the Software and/or the Associated Services, in whole or in part (other than solely as necessary to install or use the Software as expressly permitted in this Agreement);
+		\n
+		\n6. rent, lease, lend, sell, sublicense, assign, distribute, publish, transfer or otherwise make the Software and/or the Associated Services or its related documents available to, or permit access thereto or use thereof by, any third party for any reason, commercial or otherwise;
+		\n
+		\n7. use the Software and/or the Associated Services for purposes of competitive analysis, the development of a competing software product or any other purpose that is to MAPP\'s commercial disadvantage;
+		\n
+		\n8. use the Software and/or the Associated Services in any manner that could impair any MAPP site or products or services in any way or interfere with any party’s use or enjoyment of any MAPP site or products or services;
+		\n
+		\n9. charge any fees in any way if you recommend the Software to other people;
+		\n
+		\n10. use the Software and/or the Associated Services in violation of any applicable local or national law (including, without limitation, in connection with or for any defamation, harassment, crime or other unlawful act or omission, spamming, data phishing, obscene or pornographic uses, or other use that may cause MAPP to be liable to any third party or under any law for or as a result of your use of the Software and/or the Associated Services or that would cause MAPP to be brought into disrepute);
+		\n
+		\n11. use the Software and/or the Associated Services to monitor a mobile device you do not own or control, monitor your spouse, significant other or adult children; or
+		\n
+		\n12. use the Software to circumvent any professional or other confidentiality privilege.
+		\n
+		\nIf you violate any of the foregoing, MAPP shall have the right to terminate your license to the Software and use of the Associated Services and to investigate legal liabilities of all individuals and entities involved and hold such individuals and entities liable.
+		\n
+		\nYou agree to download, install, access, and use the Software and use the Associated Services in accordance with any and all applicable law, statutes, regulations, rules, ordinances, directives, and court and governmental orders, including, without limitation, all law, statutes, regulations, rules, ordinances, directives, and court and governmental orders related to data privacy, data security, and confidentiality of data and information regarding any data collected, received, shared, or accessed by you in connection with the use of the Software and/or the Associated Services ("Legal Requirements"). You shall ensure at all times that you have all rights and/or licenses to any technology, software, hardware, work, material, data, and/or information that you use in connection with the Software and/or the Associated Services and lawfully procuring any and all such rights and/or licenses at your sole cost.
+		\n
+		\nYou should NEVER attempt to monitor a mobile device you do not own or control, monitor your spouse, significant other or adult children with any mobile device monitoring product without the consent and knowledge of such persons. Doing so may be illegal, and violate local, state, and federal laws in your country and you could be subject to civil or criminal penalties. We will cooperate with authorities in investigations of any allegations of misuse.
+		\n
+		\nYou are solely responsible, throughout the duration of this Agreement and your access to and use of the Software and/or access to or use of the Associated Services, for obtaining, providing, establishing and maintaining, at your sole cost, all services, software, hardware, and other prerequisites that are or may be necessary for downloading, installing, accessing, and/or use of the Software and/or access to or use of the Associated Services, including, without limitation, any wireless services and wireless data services (collectively, "Prerequisites"), and MAPP is not, and shall not be, liable for any Prerequisite, or the provision thereof, or any costs, charges, fees, taxes, rates, or other payments incurred or made in connection therewith. You agree to comply with all terms and agreement of any provider of any Prerequisites used by you (e.g., a wireless data service agreement).
+		\n
+		\nMAPP has and shall have no obligation whatsoever to furnish any maintenance and support services of any kind with respect to the Software and/or the Associated Services. If MAPP, in its sole discretion, directly or indirectly makes available any maintenance or support, MAPP is not obligated at any time to continue or provide again any maintenance or support and MAPP may at any time discontinue, reduce and limit access to, or charge any fee for any maintenance or support if and as it decides in its sole discretion, with or without notice to you. MAPP does not offer, and does not agree to, any service level agreement, service levels, credit, uptime, minimum uptime, or other similar features to you.
+		\n
+		\n<b>IV. TERM.</b>
+		\n
+		\nThis Agreement is effective upon Your Acceptance and continues, including, without limitation, the License, until the end of the expiration of the License Term (as defined below in this Section IV) or the termination or cancellation of this Agreement, whichever occurs earlier (the "Term"). The "License Term" means the applicable one of the periods of time identified in the following paragraphs a – c of this Section IV, depending on how you received the Access Right:
+		\n
+		\nPaid Open Market License: If the License is a Paid Open Market License, the "License Term" means the period of time that begins with the Activation (as defined below in this Section IV.b) and continues for such period of time that corresponds to the duration for which you purchased the Access Right. For example, if you purchased the Access Right for thirty days, the License Term is thirty days from such Activation, and to access and use the Software and/or the Associated Services after the end of such thirty days, you have to purchase another Access Right. Solely in the event that this Section IV.b applies, the term "Activation" means the date and time of Your Acceptance or of your payment of all or part of the License Fee for the Access Right, whichever occurs earlier. Thus, in the event that you purchased the Access Right online from MAPP or an Authorized Reseller, the Activation will have occurred at the time that you paid all or part of the License Fee or Your Acceptance regardless of whether or not, or when, you actually download, install or activate the License. A Paid Open Market License or receipt of the Access Right for a Paid Open Market License does not entitle You automatically (without additional purchase) to any additional Paid Open Market License or an extension thereof. Upon the end of the License Term of the Paid Open Market License, if the Paid Open Market License ends solely as a result of the expiration of the License Term (and not as a result of any other termination, expiration, or cancellation, in which case the License and this Agreement terminates and ends without any conversion), the Paid Open Market License may automatically, without need for any notice or action of any kind, terminate and end and convert to a No-Charge Open Market License. No such conversion is or shall be required. In the event of such conversion, as of such conversion, the License will be a No-Charge Open Market License under this Agreement and be governed by the terms of this Agreement applying to a No-Charge Open Market License in effect at that time subject to any modification of this Agreement in accordance with this Agreement.
+		\n
+		\nTrial Period License: If the License is a Trial Period License, the "License Term" means the Trial Period. The Trial Period begins with the Activation (as defined below in this Section IV.c). Solely in the event that this Section IV.c applies, the term "Activation" means the date and time of Your Acceptance. Depending on the Software, upon the end of the License Term of the Trial Period License, if the Trial Period License ends solely as a result of the expiration of the License Term (and not as a result of any other termination, expiration, or cancellation, in which case the License and this Agreement terminates and ends without any conversion), the Trial Period License may automatically, without need for any notice or action of any kind, terminate and end and convert to a No-Charge Open Market License. No such conversion is or shall be required. In the event of any such conversion, as of such conversion, the License will be a No-Charge Open Market License under this Agreement and be governed by the terms of this Agreement applying to a No-Charge Open Market License in effect at that time subject to any modification of this Agreement in accordance with this Agreement. A Trial Period License or receipt of the Access Right for a Trial Period License does not entitle You to any additional Trial Period License or an extension thereof. To be able and have the right to access and use the Software and/or the Associated Services other than under a No-Charge Market License after the Trial Period, you must purchase a new Access Right from MAPP or an Authorized Reseller. Except as otherwise authorized by MAPP in advance in writing to you, you are limited to receiving one Access Right for a Trial Period for the same type of Software.
+		\n
+		\nNo-Charge Open Market License: If the License is a No-Charge Open Market License, the "License Term" begins with Your Acceptance and continues for such period of time that corresponds to the duration for which you received such Access Right, or if there is no such period of time, indefinitely until MAPP terminate this Agreement, which MAPP may do so at any time with or without cause.
+		\n
+		\n<b>V. LICENSE FEES.</b>
+		\n
+		\nUnless you received from MAPP the Access Right without the obligation to pay any License Fee, i.e., the License under this Agreement is granted for, and the License Term is, a Trial Period, the License is granted to you in consideration for your payment of the fee, price, or charge that you agreed to pay MAPP or an Authorized Reseller for the Access Right (such fee, price, or charge, the "License Fee"). You agree to pay any License Fee or part thereof not yet paid, and any other amount due to MAPP, and you represent and warrant that any License Fee by you before Your Acceptance has been paid, in immediately available indefeasible unconditional funds without any set-off or deduction. Any amount of any License Fee or amount due to MAPP that is unpaid when it is due shall accrue interest from the date it is due until MAPP’s receipt of the payment of such amount at the rate of the lower of (i) one and one-half percent (1.5%) per full or partial calendar month or (ii) the highest enforceable rate of interest under applicable law. All such interest shall be paid simultaneously with the payment of the unpaid amount on which such interest accrued.
+		\n
+		\nMAPP is not responsible, and you are solely responsible, for any access, data, transmission, and other fees and any expenses you may incur or may be charged by any third party, including, without limitation, your wireless service provider, may charge in connection with your access or use of the Software and/or the Associated Services, including, without limitation, data traffic costs.
+		\n
+		\n<b>VI. INTELLECTUAL PROPERTY RIGHTS, OWNERSHIP, AND RESERVATION OF RIGHTS.</b>
+		\n
+		\nExcept where the AOSP and Apache License apply, the Software and the Access Services are proprietary to MAPP. You acknowledge and agree that the Software is being licensed, not sold, to you by MAPP. No rights are granted or extended, implicitly, expressly, or otherwise, to any third party, and your access and use of the Software and/or the Associated Services does not, and shall not be deemed, to exhaust any Intellectual Property Right in or to or related to the Software and/ or the Associated Services with regard to you outside the express license in this Agreement or to any third party. All Intellectual Property Rights to the Software, the Access Services, all Modifications, and all content and code are owned by MAPP and are protected by law. You further acknowledge and agree that you do, and shall not be deemed to, acquire any ownership, co-ownership, right, title, interest, license (except solely the express license to access and use the Software and the right to access and use the Associated Services expressly granted to you as set forth in this Agreement during the term of this Agreement), or encumbrance in or to, and that MAPP shall retain its entire sole ownership, right, title, interest in and to, the Software, the Associated Services, all Modifications, all derivations and derivative works therefrom and all improvements, modifications, upgrades, updates, error corrections, patches, enhancements, versions, and alterations thereto, all content, works, inventions, technology, data, information, and code therein or thereof, and all other proprietary products and services of MAPP (including without limitation products and services released solely or jointly with its partners), and all Intellectual Property Rights (as defined herein) in or to or arising out of or relating to any of the foregoing (collectively, "MAPP Property").
+		\n
+		\nThe term "Intellectual Property Rights" means, individually and collectively, any and all of the following, anywhere in the world and under any law: (a) patents, patent applications, patent disclosures, invention disclosures, and inventions (whether patentable or not), (b) trademarks, service marks, trade dress, trade names, logos, corporate names and domain names, and all goodwill in or arising from any of the foregoing, (c) copyrights and rights in and to or arising from or related to copyrightable works (including computer programs), mask works and rights in data and databases, (d) rights in and to or arising from or related to trade secrets, know-how, show-how, and other confidential or proprietary information, and (e) all other intellectual and industrial property rights, in each case whether registered or unregistered and including all applications for, and renewals or extensions of, such rights, and all similar or equivalent rights or forms of protection provided by applicable law, regulations or rules in any jurisdiction throughout the world. You shall promptly notify MAPP if you become aware of any possible third-party infringement of MAPP\'s Intellectual Property Rights arising out of or relating to the Software and/or the Associated Services and fully cooperate with MAPP in any legal action taken by MAPP against third parties to enforce its Intellectual Property Rights. You shall safeguard the Software (including all copies thereof) from infringement, misappropriation, theft, misuse or unauthorized access.
+		\n
+		\nWithout MAPP\'s written permission, no entity or individual shall use, duplicate, change, copy, distribute or use or sell with other products any part of the Software and/or the Associated Services, any other product, information or materials owned by MAPP, or any other MAPP Property in any manner for any reason whatsoever. Without MAPP\'s written permission, no entity or individual shall use, duplicate, change, distribute, copy or infringe in other ways MAPP\'s trademarks in part or as a whole in any manner for any reason whatsoever, including without limitation the following trademarks: any marks used in connection with MAPP\’s apps and tools.
+		\n
+		\nMAPP\'s core technology is protected by the patent and other Intellectual Property Rights laws of various countries. Without MAPP\'s written permission, no entity or individual shall carry out, duplicate, modify, distribute, copy or infringe in other ways MAPP’s patented products and patented technology in any manner for any reason whatsoever.
+		\n
+		\nIf and to the extent you acquire or obtain any ownership, co-ownership, right, title, interest, license (except solely the express license to access and use the Software and the right to access and use the Associated Services expressly granted to you as set forth in this Agreement during the term of this Agreement), or encumbrance, you agree to assign, transfer, and convey, and you hereby assign, transfer, and convey, to MAPP – free of any royalty, fee, or other payment obligation of MAPP or any of its affiliates – all such ownership, co-ownership, right, title, interest, license, and encumbrance. You agree to execute any document and take any other action or forego to take any other action as requested by MAPP to you to give effect to the provisions of this Article V.
+		\n
+		\n<b>VII. RIGHT OF REPUTATION.</b>
+		\n
+		\nAs a legal person, MAPP\'s rights of reputation are protected by the law. Where the company\'s goodwill is slandered or the rights of reputation are infringed by illegal means of forging and disseminating false information and materials, or similar actions, MAPP has the right to pursue legal responsibilities according to law. Where the above Intellectual Property Rights of MAPP are infringed or the exercise of the Intellectual Property Rights are hindered, legal responsibilities will be investigated according to law and you may be held liable for such infringement and/or hindering.
+		\n
+		\n<b>VIII. TERMINATION.</b>
+		\n
+		\nThis Agreement expires, terminates, and ends immediately and automatically, without need for any notice or other act: (i) upon the end of the License Term, or (ii) any fee or price due for the License, or any other payment due under this Agreement, is not paid to or received by MAPP, whether or not resulting from any fault by you.
+		\n
+		\nThis Agreement also terminates immediately and automatically, without need for any notice or other act, if and when you (i) breach or violate or default under any provision of this Agreement or obligation of you, or (ii) you engage in any act or omission that constitutes or results in any breach or violation of, or default under, any provision of this Agreement, or (iii) engage, or encourage others to engage, in any misleading, fraudulent, improper, unlawful, illegal, or dishonest act or omission in connection with the Software and/or the Associated Services or relating to this Agreement or the Software and/or the Associated Services; or (iv) you fail to agree to any change, modification, amendment, or alteration of this Agreement or any provision of this Agreement; or (v) you fail to permit any installation or inclusion of any Modification provided by MAPP to you, or to the Software installed on the Device.
+		\n
+		\nMAPP may also terminate this Agreement with immediate effect: (i) as set forth in Section XVI.(d) of this Agreement, or (ii) if or to the extent MAPP ceases to make the Software, or removes the Software from being, available for licensing, and/or ceases to make the Associated Services available for access or use, by members of the public in anywhere or in your country, region, or area, or (iii) if MAPP fails to conduct business operations or takes steps to dissolve or cease to exist; or (iv) if MAPP or you files or is or becomes subject to a petition in bankruptcy; or (v) if MAPP admits the inability to pay the debts as they become due, makes a general assignment for the benefit of its creditors, or becomes subject to the appointment of a receiver; or (vi) upon your death or legal incapacity.
+		\n
+		\nMAPP may terminate this Agreement by disconnecting your access to and use of the Software and/or the Associated Services, without need or requirement for any notice. MAPP may give you notice of any termination, expiration, or cancellation if MAPP decides to do so in its sole discretion, provided, however, that, giving any notice of termination shall not obligate or require MAPP to give such notice in any other instance of a termination.
+		\n
+		\nYou may terminate this Agreement at any time by giving MAPP written notice of termination addressed to MAPP at the address of its headquarters and to the attention of the "Legal Department" at such address.
+		\n
+		\nAny access to or use of the Software and/or the Associated Services following any event of termination of this Agreement (e.g., if NQ and/or you are unaware of such termination) shall not negate such termination or the fact that such termination occurred.
+		\n
+		\n<b>IX. EFFECT OF TERMINATION.</b>
+		\n
+		\nUpon the termination, expiration, or cancellation of this Agreement for any reason: (i) the License and your right to access and use the Software or the Associated Services, and to have possession of the downloaded and installed copy of the Software, terminates and ends, (ii) MAPP may immediately disconnect your access to and use of the Software or the Associated Services, with or without any notice to you, (iii) you agree to immediately cease all access to and use of the Software and the Associated Services and irretrievably erase and destroy all copies, full or partial, of the Software or the Associated Services and any information pertaining to the Software or any Associated Services, without retaining any copy or manifestation of the Software and/or the Associated Services, any of its content, or any part thereof. The provisions of Section V (regarding any License Fee and other amount due to MAPP and unpaid), VI, VII, and X through XXIV of this Agreement, and this Section IX shall survive any termination, expiration, or cancellation of this Agreement.
+		\n
+		\nAny termination, expiration, or cancellation of this Agreement does not waive, terminate, cancel, or avoid any duty or obligation to pay any License Fee or other fee, price, or other charge due by you to MAPP or its Authorized Resellers for the License Term during which such termination occurs, if and to the extent not yet paid, which shall be due immediately upon termination if not yet due, and does not entitle or give you any right or expectation to a refund, reimbursement, repayment, compensation for, or other receipt of the amount of any License Fee or any other fee, price, or other charge paid in connection with the Software and/or the Associated Services or this Agreement. Any and all payments made to MAPP in connection with the License or under this Agreement are non-refundable.
+		\n
+		\n<b>X. PRODUCT CLAIMS.</b>
+		\n
+		\nMAPP is not responsible for addressing and you hereby waive any claims by you or any third party relating to the Software and/or the Associated Services or your possession and/or use of the Software and/or the Associated Services, including but not limited to: (a) product liability claims; (b) any claim the Software and/or any of the Associated Services fails to conform to any applicable legal or regulatory requirement; and (c) claims arising under consumer protection or similar legislation. You accept full responsibility and agree to be fully liable for all results, consequences, injuries, death, damages, emotional distress, and harm of any kind caused by your use, application, or implementation of the Software, the Associated Services, or the Device, or any violation of the provisions of this Agreement by you.
+		\n
+		\n<b>XI. DISCLAIMER OF WARRANTIES.</b>
+		\n
+		\nMAPP MAKES NO WARRANTIES OR REPRESENTATIONS HEREUNDER OR REGARDING THE SOFTWARE AND/OR THE ASSOCIATED SERVICES. MAPP DISCLAIMS RESPONSIBILITY FOR ANY HARM RESULTING FROM YOUR USE OF THE SOFTWARE AND/OR THE ASSOCIATED SERVICES. THE SOFTWARE AND THE ASSOCIATED SERVICES ARE PROVIDED "AS IS" AND "AS AVAILABLE". MAPP EXPRESSLY DISCLAIMS TO THE FULLEST EXTENT PERMITTED BY LAW ALL EXPRESS, IMPLIED AND STATUTORY WARRANTIES, INCLUDING, WITHOUT LIMITATION, ANY AND ALL WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, WORKMANSHIP, AND NON-INFRINGEMENT OF PROPRIETARY RIGHTS, AND ANY WARRANTIES REGARDING THE SECURITY, RELIABILITY, TIMELINESS AND PERFORMANCE OF THE SOFTWARE AND/OR THE ASSOCIATED SERVICES. YOU DOWNLOAD AND USE THE SOFTWARE AND/OR THE ASSOCIATED SERVICES AT YOUR OWN DISCRETION AND RISK, AND YOU ARE SOLELY RESPONSIBLE FOR ANY DAMAGES TO YOUR HARDWARE DEVICE(S) OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OR USE OF THE SOFTWARE AND/OR THE ASSOCIATED SERVICES.
+		\n
+		\nIN THE EVENT OF ANY BREACH OF ANY WARRANTY, OR ANY FAILURE OF THE SOFTWARE AND/OR THE ASSOCIATED SERVICES TO CONFORM TO ANY WARRANTY, THAT APPLIES AND IS NOT OR CANNOT BE EFFECTIVELY DISCLAIMED HEREUNDER UNDER APPLICABLE LAW: (I) YOU MAY NOTIFY MAPP DURING THE LICENSE TERM THEREOF AND MAPP MAY CORRECT SUCH FAILURE OR BREACH, AND (II) IF YOU PAID TO MAPP A LICENSE FEE FOR THE LICENSE DURING SUCH LICENSE TERM AND SUCH CORRECTION DOES NOT OCCUR OR MAPP DECIDES TO REPAY SUCH LICENSE FEE, MAPP WILL REFUND SUCH LICENSE FEE FOR SUCH LICENSE TERM, AND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, MAPP WILL HAVE NO OTHER WARRANTY OBLIGATION OR OTHER LIABILITY WHATSOEVER WITH RESPECT TO THE SOFTWARE, THE ASSOCIATED SERVICES, OR THIS AGREEMENT, AND ANY OTHER CLAIMS, LOSSES, LIABILITIES, DAMAGES, COSTS OR EXPENSES ATTRIBUTABLE TO ANY FAILURE TO CONFORM TO ANY WARRANTY WILL BE YOUR SOLE RESPONSIBILITY. THE FOREGOING REFUND OF THE LICENSE FEE, IF ANY, CONSTITUTES THE MAXIMUM LIABILITY THAT MAPP SHALL HAVE UNDER AND RELATING TO THIS AGREEMENT OR THE SOFTWARE OR THE ASSOCIATED SERVICES. IF NO LICENSE FEE HAS BEEN PAID TO MAPP, SUCH AS IF THE LICENSE IS FOR A TRIAL PERIOD, YOU ARE NOT ENTITLED TO ANY PAYMENT BY MAPP.
+		\n
+		\n<b>XII. LIMITATION OF LIABILITY.</b>
+		\n
+		\nNEITHER MAPP NOR ITS SERVICE PROVIDERS OR AFFILIATES WILL BE LIABLE TO YOU OR ANY USER FOR ANY USE OR MISUSE OF THE SOFTWARE AND/OR THE ASSOCIATED SERVICES. SUCH EXCLUSION INCLUDES, BUT IS NOT LIMITED TO: (A) DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY AND PUNITIVE DAMAGES, WHETHER SUCH CLAIM IS BASED ON WARRANTY, CONTRACT, TORT OR OTHERWISE (EVEN IF MAPP HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES); (B) APPLIES WHETHER DAMAGES ARISE FROM USE OR MISUSE OF AND RELIANCE ON THE SOFTWARE AND/OR THE ASSOCIATED SERVICES, FROM INABILITY TO USE THE SOFTWARE AND/OR THE ASSOCIATED SERVICES, OR FROM THE INTERRUPTION, SUSPENSION, OR TERMINATION OF THE SOFTWARE AND/OR THE ASSOCIATED SERVICES (INCLUDING ANY DAMAGES INCURRED BY THIRD PARTIES); AND (C) APPLIES NOTWITHSTANDING A FAILURE OF THE ESSENTIAL PURPOSE OF ANY LIMITED REMEDY AND TO THE FULLEST EXTENT PERMITTED BY LAW. IF AND TO THE EXTENT THAT MAPP OR ANY OF ITS SERVICE PROVIDERS OR AFFILIATES IS LIABLE TO YOU FOR ANY DAMAGES NOTWITHSTANDING THE FOREGOING PROVISIONS, YOU AGREE THAT THEIR AGGREGATE AND COMPLETE LIABILITY SHALL BE LIMITED TO THE PURCHASE PRICE, IF APPLICABLE, FOR THE LICENSE TO ACCESS, INSTALL, AND USE THE SOFTWARE, AND THE RIGHT TO ACCESS AND USE ANY ASSOCIATED SERVICES, UNDER THIS AGREEMENT.
+		\n
+		\n<b>XIII. INDEMNIFICATION.</b>
+		\n
+		\nYou will indemnify and hold harmless MAPP and its parents, subsidiaries, officers, directors, shareholders, agents and employees, from any and all losses to the extent resulting from any action, suit, proceeding, claim, demand, investigation or assessment due to or arising directly or indirectly out of (i) your access and/or use of the Software and/or the Associated Services, (ii) any violation of any applicable law arising from your conduct or in connection with your use or misuse of the Software and/or the Associated Services, (iii) any alleged violation of this Agreement or other applicable agreements between you and MAPP, (iv) any negligence (whether sole, contributory, or comparative) and willful misconduct of you, and (v) any alleged violation of any applicable law or regulation (EXPRESSLY INCLUDING, IN EACH CASE, ANY SUCH LOSSES ATTRIBUTABLE TO THE ORDINARY, SOLE OR CONTRIBUTORY NEGLIGENCE OR STRICT LIABILITY OF MAPP). MAPP reserves the right, at its own expense, to assume the exclusive defense and control of any matter subject to indemnification by you, but doing so will not excuse your indemnity obligations.
+		\n
+		\n<b>XIV. LEGAL RESTRICTIONS.</b>
+		\n
+		\nSome countries and jurisdictions do not allow the conditions, limitations, disclaimer, or exclusion of implied warranties, representations, or conditions, so some of the disclaimers, exclusions, limitations, and/or obligations in Sections X, XI, XII, and/or XIII of this Agreement may not apply to you. In such case: (i) the conditions, limitations, disclaimer, or exclusion of implied warranties, representations, or conditions shall not be invalidated or nullified but be revised and remain valid and enforceable such that they are effective to the greatest extent as permitted under applicable law, and (ii) if any implied warranties or conditions would then otherwise arise, such implied warranties and conditions will be limited in duration to ninety (90) days, or if applicable law requires a longer time period, the shortest legally required time period, from the date of the delivery of the Software and/or the Associated Services.
+		\n
+		\n<b>XV. BASIS OF BARGAIN.</b>
+		\n
+		\nYou agrees and acknowledges that MAPP has set its fees and the parties have entered into this Agreement in reliance on the limited warranties, warranty disclaimers, limitations and exclusions of liability, and indemnity set forth herein, that the same reflect an agreed-to allocation of risk between the parties (including the risk that a remedy may fail of its essential purpose and cause consequential loss), and that the same forms an essential basis of the bargain between the parties. You agree and acknowledge that MAPP would not have been able to license the Software and/or make available any Associated Service at the amount charged on an economic basis without such limitations.
+		\n
+		\n<b>XVI. INFRINGEMENT.</b>
+		\n
+		\nIf use of the Software and/or any of the Associated Services may be enjoined due to a claim of infringement by a third party then, at its sole discretion and expense, MAPP may do one of the following: (a) negotiate a license or other agreement so that the Software and/ or the any of the Associated Services is no longer subject to such a potential claim, (b) modify the Software and/or any of the Associated Services so that it becomes non-infringing, provided such modification can be accomplished without materially affecting the performance and functionality of the Software and/or the Associated Services, (c) replace the Software and/or the Associated Services with non-infringing software, or (d) terminate this Agreement by written notice of termination to you, in which case you shall stop using the Software and/or the Associated Services. The foregoing sets out the entire liability of MAPP and the sole obligations of MAPP to you in respect of any claim that the Software and/ or any of the Associated Services or its use infringes any third party rights.
+		\n
+		\n<b>XVII. PRIVACY POLICY.</b>
+		\n
+		\nRefer to the MAPP privacy policy found here: http://superdupersms.com/privacy_policy.html
+		\n
+		\n<b>XVIII. EXPORT RESTRICTIONS.</b>
+		\n
+		\nYou acknowledge that the Software, or any part thereof, may be subject to the jurisdiction of the U.S. Export Administration Regulations (Title 15 of the U.S. Code of Federal Regulations Part 730 et seq.), U.S. trade embargo regulations (Title 31 of the U.S. Code of Federal Regulations Part 500 et seq.), other regulations of the U.S. Departments of Commerce, State, and Treasury (collectively, "Export Control Law"). Accordingly, you agree that you will comply with all Export Control Law and that the Software, or any part or information thereof, or any access or use thereof, will not be: (i) reexported, sold, or otherwise transferred outside the United States of America or to other countries or to any person in violation of Export Control Law or any other U.S. law; or (ii) made available to any person that you know or have reason to suspect will cause the Software, or any part or information thereof, or any access or use thereof, to be made available outside the United States of America or to other countries or to any person in violation of Export Control Law or any other U.S. law. You are solely responsible for determining its obligations under Export Control Law.
+		\n
+		\n<b>XIX. INJUNCTIVE RELIEF.</b>
+		\n
+		\nYou agree that damages alone may be an insufficient remedy for violations of the terms of Sections III, VI, VII, IX, and XVIII of this Agreement, and that MAPP may suffer irreparable damage as a result of such a violation. Accordingly, MAPP shall be entitled, in the event of a breach or threatened breach of Sections III, VI, VII, IX, and XVIII of this Agreement, to seek injunctive relief (or equivalent relief available under the law of the jurisdiction where MAPP seeks such relief) to enforce the provisions of Sections III, VI, VII, IX, and XVIII of this Agreement without posting a bond. Injunctive (or such equivalent) relief shall be in addition to any and all other rights or remedies available to MAPP, including, but not limited to, damages or other relief or remedies for such violation. Assertion or the failure to assert injunctive (or such equivalent) relief shall not constitute a waiver of any such other rights or remedies. In the event it is necessary for MAPP to institute legal proceedings to enforce Sections III, VI, VII, IX, and XVIII of this Agreement, MAPP will be entitled to recover attorneys’ fees and costs incurred by MAPP in such proceedings if it prevails in such proceedings.
+		\n
+		\n<b>XX. ASSIGNMENT/CHANGE OF CONTROL.</b>
+		\n
+		\nThis Agreement may not be assigned, nor may any of your obligations under this Agreement be delegated, in whole or in part, by you by operation of law, merger, or any other means without MAPP’s express prior written consent and any attempted assignment without such consent will be null and void. MAPP may, without notice to you, assign this Agreement. Further, MAPP may perform all obligations, if any, to be performed by MAPP under this Agreement directly or may have some or all obligations performed by its affiliates, agents and/or independent contractors.
+		\n
+		\n<b>XXI. SEVERABILITY.</b>
+		\n
+		\nIf a court of competent jurisdiction finds any clause of this Agreement to be unenforceable for any reason, that clause of this Agreement shall be enforced to the maximum extent permissible so as to effect the intent of the parties, and the remainder of this Agreement shall continue in full force and effect.
+		\n
+		\n<b>XXII. GOVERNING LAW AND JURISDICTION.</b>
+		\n
+		\nThe internal laws of the State of Florida, U.S.A. (without giving effect to any choice or conflict of law provision or rule (whether of the State of Florida, U.S.A. or any other jurisdiction) that would cause the application of laws of any other jurisdiction) shall govern all matters arising out of or relating to this Agreement and all of the matters or transactions it contemplates, including its validity, interpretation, construction, performance and enforcement and any disputes or controversies arising therefrom. The United Nations Convention on Contracts for the International Sale of Goods will not apply to this Agreement or any transaction hereunder. You consent and submit to the exclusive jurisdiction of competent state and federal courts in the State of New York, U.S.A., for any litigation or proceeding and to the venue of such litigation or proceeding in Fort Walton Beach, Florida, U.S.A.
+		\n
+		\n<b>XXIII. NO THIRD PARTY BENEFICIARIES.</b>
+		\n
+		\nThe parties do not intend any third party to be a third party beneficiary under this Agreement, and nothing in this Agreement shall be construed for any third party to be a third party beneficiary or to confer any third party beneficiary rights or status on any third party.
+		\n
+		\n<b>XXIV. ENTIRE AGREEMENT.</b>
+		\n
+		\nAll terms, conditions and provisions of this Agreement and any privacy statement or other policies and terms and conditions of use accepted by you, constitute the entire agreement between you and MAPP and shall supersede all other communications, representations, agreements or understandings, either oral or written, with you with respect to the subject matter hereof.
+		\n
+		\nThank you for choosing MAPP services and your comments and suggestions are always appreciated.
+		\n
+		\nShould you have any questions, please contact us by e-mail at support@superdupersms.com.
+	</string>
+</resources>

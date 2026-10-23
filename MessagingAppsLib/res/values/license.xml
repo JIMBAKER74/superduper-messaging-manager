@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="licenseAllow">Unlimited Contacts Version</string>
+	<string name="licenseDisallow">Free Version</string>
+	<string name="licenseDisallowMsg">This is the free app version.\nIf you paid for this version,\n please exit and try again.\n(You may have a bad signal)</string>
+
+    <string name="unlicensed_dialog_title">Unlimited Hidden Contacts</string>
+	<string name="unlicensed_dialog_body">License is not valid. \"Buy\" to add unlimited contacts.\n\nCredit card statement shows \"Google * Purchase.\" For added privacy, you can use a gift card.
+	    \n\n(Network access is required for the license check.)</string>
+	<string name="unlicensed_dialog_retry_body">License check failed. Please \"Retry\" the license check if you have purchased the app already.
+	    \n\n(Network access is required for the license check.)</string>
+	<string name="unlicensed_retry_button">Retry</string>
+	<string name="unlicensed_buy_button">Buy</string>
+	<string name="unlicensed_quit_button">Cancel</string>
+	<string name="unlicensed_application_error">Application error: %1$s</string> 
+
+</resources>

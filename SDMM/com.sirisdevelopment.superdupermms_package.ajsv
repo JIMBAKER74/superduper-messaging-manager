@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)-->
+<ajsv>
+    <diagram creationDate="2014-Feb-05 12:02" filterScript="" licenseGrade="evaluation" licenseeName="anon" licenseeOrganization="unknown" version="1.7.16.v20130804-1241">
+        <class className="com.sirisdevelopment.superdupersms.scan.SDScanEngine" project="SirisDevelopmentSDSMS" xLocation="50" yLocation="29"/>
+        <class className="com.sirisdevelopment.superdupersms.scan.SDAppList" project="SirisDevelopmentSDSMS" xLocation="1190" yLocation="-9"/>
+        <class className="com.sirisdevelopment.superdupersms.scan.SDScanManager" project="SirisDevelopmentSDSMS" xLocation="69" yLocation="490"/>
+        <class className="com.sirisdevelopment.superdupersms.data.SDAppInfo" project="Unknown Java Project Name" xLocation="741" yLocation="475"/>
+    </diagram>
+</ajsv>

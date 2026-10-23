@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="basicNotifyTitle">SDSms Manager Notification</string>
+    <string name="basicNotifyMsg">---</string>
+    <string name="basicNotifyStatusTitle">SDSms Manager Notification</string>
+    <string name="basicNotifyStatusTicker">SDSms Manager Notification</string>
+    <string name="basicNotifyStatusMessage">Tap here for more information</string>
+    <string name="basicNotifyEmailSubject">SDSms Manager Notification</string>
+    <string name="basicNotifyEmailMessage">---</string>
+
+    <string name="bgScanProgressNotifyTitle">SDSms Manager Background Scan</string>
+    <string name="bgScanProgressNotifyMsg">SDSms Manager background scan in currently in progress.</string>
+    <string name="bgScanProgressNotifyStatusTitle">SDSms Manager Scan in Progress</string>
+    <string name="bgScanProgressNotifyStatusTicker">SDSms Manager scan running...</string>
+    <string name="bgScanProgressNotifyStatusMessage">SDSms Manager is scanning your apps for threats.</string>
+    <string name="bgScanProgressNotifyEmailSubject">SDSms Manager Background Scan Results for TIMESTAMP</string>
+    <string name="bgScanProgressNotifyEmailMessage">SDSms Manager Background Scan is running on your Android phone/device on TIMESTAMP</string>
+    
+    <string name="bgScanClearNotifyTitle">SDSms Manager Scan Completed</string>
+    <string name="bgScanClearNotifyMsg">No new spyware threats detected</string>
+    <string name="bgScanClearNotifyStatusTitle">SDSms Manager Scan Completed</string>
+    <string name="bgScanClearNotifyStatusTicker">SDSms Manager scan complete</string>
+    <string name="bgScanClearNotifyStatusMessage">No threats detected during scan.</string>
+    <string name="bgScanClearNotifyEmailSubject">SDSms Manager Background Scan Results for TIMESTAMP</string>
+    <string name="bgScanClearNotifyEmailMessage">No new spyware threats detected.</string>
+
+    <string name="bgScanAlertNotifyTitle">SDSms Manager Background Scan - Attention Required</string>
+    <string name="bgScanAlertNotifyMsg">Tap here for more information.</string>
+    <string name="bgScanAlertNotifyStatusTitle">SDSms Manager Scan Alert</string>
+    <string name="bgScanAlertNotifyStatusTicker">SDSms Manager scan - Attention Required</string>
+    <string name="bgScanAlertNotifyStatusMessage">SDSms Manager scan detected spyware.</string>
+    <string name="bgScanAlertNotifyEmailSubject">SDSms Manager Background Scan - Attention Required</string>
+    <string name="bgScanAlertNotifyEmailMessage">SDSms Manager background scan at TIMESTAMP detected spyware.\n\n
+         Please open SDSms Manager on your Android phone/device for more information.</string>
+
+    <string name="realTimeScanProgressNotifyTitle">SDSms Manager Scan</string>
+    <string name="realTimeScanProgressNotifyMsg">SDSms Manager scan in progress.</string>
+    <string name="realTimeScanProgressNotifyStatusTitle">SDSms Manager Scan Started</string>
+    <string name="realTimeScanProgressNotifyStatusTicker">SDSms Manager scan</string>
+    <string name="realTimeScanProgressNotifyStatusMessage">SDSms Manager scan in progress...</string>
+    <string name="realTimeScanProgressNotifyEmailSubject">SDSms Manager scan on TIMESTAMP</string>
+    <string name="realTimeScanProgressNotifyEmailMessage">A manual request for an SDSms Manager scan ran on TIMESTAMP.</string>
+
+    <string name="realTimeScanClearNotifyTitle">SDSms Manager Scan Completed</string>
+    <string name="realTimeScanClearNotifyMsg">No new spyware threats were detected.</string>
+    <string name="realTimeScanClearNotifyStatusTitle">SDSms Manager Scan Complete</string>
+    <string name="realTimeScanClearNotifyStatusTicker">SDSms Manager scan complete</string>
+    <string name="realTimeScanClearNotifyStatusMessage">No new spyware threats detected.</string>
+    <string name="realTimeScanClearNotifyEmailSubject">SDSms Manager scan Results for TIMESTAMP</string>
+    <string name="realTimeScanClearNotifyEmailMessage">No new spyware threats detected.</string>
+
+    <string name="realTimeScanAlertNotifyTitle">SDSms Manager Scan - Attention Required</string>
+    <string name="realTimeScanAlertNotifyMsg">Tap here for more information.</string>
+    <string name="realTimeScanAlertNotifyStatusTitle">SDSms Manager Scan Alert</string>
+    <string name="realTimeScanAlertNotifyStatusTicker">SDSms Manager scan alert</string>
+    <string name="realTimeScanAlertNotifyStatusMessage">SDSms Manager scan has detected issues that require your attention. Please tap here for more information.</string>
+    <string name="realTimeScanAlertNotifyEmailSubject">SDSms Manager Scan - Attention Required</string>
+    <string name="realTimeScanAlertNotifyEmailMessage">SDSms Manager scan detected spyware on TIMESTAMP.\n\n
+         Please open SDSms Manager on your Android phone/device for more information.</string>
+
+    <string name="installScanProgressNotifyTitle">SDSms Manager App Scan</string>
+    <string name="installScanProgressNotifyMsg">SDSms Manager is Scanning APPNAME</string>
+    <string name="installScanProgressNotifyStatusTitle">SDSms Manager App Scan</string>
+    <string name="installScanProgressNotifyStatusTicker">SDSms Manager Scanning APPNAME</string>
+    <string name="installScanProgressNotifyStatusMessage">SDSms Manager is scanning APPNAME.</string>
+    <string name="installScanProgressNotifyEmailSubject">SDSms Manager scan for APPNAME</string>
+    <string name="installScanProgressNotifyEmailMessage">SDSms Manager is scanning APPNAME on TIMESTAMP.\n\n
+        If you did not install this app, you may have spyware.\n\n
+        Please check SDSms Manager on your phone/device.</string>
+
+    <string name="installScanClearNotifyTitle">SDSms Manager App Scan Completed</string>
+    <string name="installScanClearNotifyMsg">APPNAME has no spyware threat detected.</string>
+    <string name="installScanClearNotifyStatusTitle">SDSms Manager Scan Completed</string>
+    <string name="installScanClearNotifyStatusTicker">SDSms Manager APPNAME scan complete</string>
+    <string name="installScanClearNotifyStatusMessage">APPNAME is not a spyware threat.</string>
+    <string name="installScanClearNotifyEmailSubject">SDSms Manager scanned APPNAME on TIMESTAMP</string>
+    <string name="installScanClearNotifyEmailMessage">APPNAME had no threats detected.</string>
+
+    <string name="installScanAlertNotifyTitle">SDSms Manager App Scan Completed - Attention Required</string>
+    <string name="installScanAlertNotifyMsg">APPNAME - spyware threat detected.</string>
+    <string name="installScanAlertNotifyStatusTitle">SDSms Manager Scan Alert</string>
+    <string name="installScanAlertNotifyStatusTicker">SDSms Manager scan alert for APPNAME</string>
+    <string name="installScanAlertNotifyStatusMessage">SDSms Manager detected APPNAME as a spyware threat</string>
+    <string name="installScanAlertNotifyEmailSubject">SDSms Manager Scan - Attention Required</string>
+    <string name="installScanAlertNotifyEmailMessage">SDSms Manager scan on TIMESTAMP detected APPNAME as spyware.\n
+        For more information, please go to SDSms Manager on your Android phone/device.</string>
+
+    <string name="uninstallScanProgressNotifyTitle">SDSms Manager Uininstall Monitor</string>
+    <string name="uninstallScanProgressNotifyMsg">SDSms Manager is Monitoring APPNAME uninstall</string>
+    <string name="uninstallScanProgressNotifyStatusTitle">SDSms Manager App Monitoring</string>
+    <string name="uninstallScanProgressNotifyStatusTicker">SDSms Manager - APPNAME is uninstalling</string>
+    <string name="uninstallScanProgressNotifyStatusMessage">SDSms Manager - APPNAME is uninstalling.</string>
+    <string name="uninstallScanProgressNotifyEmailSubject">SDSms Manager - APPNAME uninstalling</string>
+    <string name="uninstallScanProgressNotifyEmailMessage">SDSms Manager monitoring uninstall of APPNAME on TIMESTAMP.\n\n
+        APPNAME was uninstalled. SDSms Manager monitors this activity as well as installs.\n\n
+        If you did not uninstall this app, please check SDSms Manager on your phone/device.</string>
+
+    <string name="uninstallScanNoCompatibleSmsAppsNotifyTitle">Super Duper Messaging Manager</string>
+    <string name="uninstallScanNoCompatibleSmsAppsNotifyMsg">SDMM detected the removal of your SMS app</string>
+    <string name="uninstallScanNoCompatibleSmsAppsNotifyStatusTitle">Super Duper Messaging Manager Alert</string>
+    <string name="uninstallScanNoCompatibleSmsAppsNotifyStatusTicker">Your messaging app was removed. There are no compatible messaging apps on your device.</string>
+    <string name="uninstallScanNoCompatibleSmsAppsNotifyStatusMessage">SDMM warning: No compatible messaging apps. SDMM requires a compatible messaging app to work properly.</string>
+    <string name="uninstallScanNoCompatibleSmsAppsNotifyEmailSubject">Super Duper Messaging Manager - messaging uninstalled</string>
+    <string name="uninstallScanNoCompatibleSmsAppsNotifyEmailMessage">SDMM is notifying you that your messaging app was removed from your phone on TIMESTAMP.\n\n
+        SDMM cannot work without a compatible mobile messaging app on your phone.\n\n
+        Please install a different compatible messaging app.\n\n
+        Let us know if you have a messaging app that you want to be compatible with SDMM.</string>
+
+    <string name="uninstallScanClearNotifyTitle">SDSms Manager Uninstalled Monitoring Complete</string>
+    <string name="uninstallScanClearNotifyMsg">APPNAME uninstall monitoring and is safe.</string>
+    <string name="uninstallScanClearNotifyStatusTitle">SDSms Manager Monitoring Complete</string>
+    <string name="uninstallScanClearNotifyStatusTicker">SDSms Manager APPNAME Monitoring</string>
+    <string name="uninstallScanClearNotifyStatusMessage">APPNAME uninstall complete with no threats.</string>
+    <string name="uninstallScanClearNotifyEmailSubject">SDSms Manager APPNAME uninstall on TIMESTAMP</string>
+    <string name="uninstallScanClearNotifyEmailMessage">APPNAME uninstall complete with no threats detected.</string>
+
+    <string name="uninstallScanAlertNotifyTitle">SDSms Manager App Scan Completed - Attention Required</string>
+    <string name="uninstallScanAlertNotifyMsg">APPNAME uninstall indicates threats found.</string>
+    <string name="uninstallScanAlertNotifyStatusTitle">SDSms Manager Monitoring Alert</string>
+    <string name="uninstallScanAlertNotifyStatusTicker">SDSms Manager uninistall Alert for APPNAME</string>
+    <string name="uninstallScanAlertNotifyStatusMessage">SDSms Manager detected APPNAME uninstall resulted in a spyware threat</string>
+    <string name="uninstallScanAlertNotifyEmailSubject">SDSms Manager Scan - Attention Required</string>
+    <string name="uninstallScanAlertNotifyEmailMessage">SDSms Manager uninstall monitor on TIMESTAMP detected spyware.\n\n
+        During the uninstall process of APPNAME, a spyware threat was detected.\n\n
+        For more information, please go to SDSms Manager on your Android phone/device.</string>
+
+    <string name="confidentialEmailRemovedNotifyTitle">SDSms Manager Notification Warning</string>
+    <string name="confidentialEmailRemovedNotifyMsg">You will no longer receive notifications via your Confidential Email Address because the setting was turned off.</string>
+    <string name="confidentialEmailRemovedNotifyStatusTitle">SDSms Manager Warning</string>
+    <string name="confidentialEmailRemovedNotifyStatusTicker">SDSms Manager Warning</string>
+    <string name="confidentialEmailRemovedNotifyStatusMessage">Confidential Email Address turned off.</string>
+    <string name="confidentialEmailRemovedNotifyEmailSubject">SDSms Manager Warning - Email turned off</string>
+    <string name="confidentialEmailRemovedNotifyEmailMessage">
+        The setting for this email address was turned off in SDSms Manager.\n\n
+        You will no longer receive notifications at this email address.\n\n
+        If you made this change, you will no longer receive messages like this one from SDSms Manager.\n\n
+        If you did not change it, your SDSms Manager account information may not be confidential.\n\n
+        The setting was changed at TIMESTAMP.</string>
+
+    <string name="spywareReclassifyNotifyTitle">SDSms Manager Warning</string>
+    <string name="spywareReclassifyNotifyMsg">APPNAME was manually re-classified as no longer being spyware.</string>
+    <string name="spywareReclassifyNotifyStatusTitle">SDSms Manager Warning</string>
+    <string name="spywareReclassifyNotifyStatusTicker">SDSms Manager Warning</string>
+    <string name="spywareReclassifyNotifyStatusMessage">APPNAME was manually re-classified as no longer being spyware.</string>
+    <string name="spywareReclassifyNotifyEmailSubject">SDSms Manager Alert - App Re-Classification</string>
+    <string name="spywareReclassifyNotifyEmailMessage">APPNAME was manually re-classified not being spyware on TIMESTAMP.\n\n
+        If you did not make this change, it is possible that Spyware is installed on your phone/device.\n\n
+        Check SDSms Manager for more information about the scan and the app.</string>
+
+    <string name="serverErrorNotifyTitle">SDSms Manager Notification</string>
+    <string name="serverErrorNotifyMsg">There is an issue with the SDSms Manager servers. They are not available.</string>
+    <string name="serverErrorNotifyStatusTitle">SDSms Manager Notification</string>
+    <string name="serverErrorNotifyStatusTicker">SDSms Manager Notification</string>
+    <string name="serverErrorNotifyStatusMessage">SDSms Manager\'s servers are not available. This can compromise your spyware protection.</string>
+    <string name="serverErrorNotifyEmailSubject">SDSms Manager Notification</string>
+    <string name="serverErrorNotifyEmailMessage">SDSms Manager servers were unavailable on TIMESTAMP.</string>
+
+    <string name="networkErrorNotifyTitle">SDSms Manager Notification</string>
+    <string name="networkErrorNotifyMsg">There is an issue connecting with the SDSms Manager servers.</string>
+    <string name="networkErrorNotifyStatusTitle">SDSms Manager Notification</string>
+    <string name="networkErrorNotifyStatusTicker">SDSms Manager Notification</string>
+    <string name="networkErrorNotifyStatusMessage">There is an issue connecting with the SDSms Manager servers.</string>
+    <string name="networkErrorNotifyEmailSubject">SDSms Manager Notification</string>
+    <string name="networkErrorNotifyEmailMessage">SDSms Manager could not connect with its servers on TIMESTAMP.</string>
+
+    <string name="commErrorNotifyTitle">SDSms Manager Notification</string>
+    <string name="commErrorNotifyMsg">There is an issue connecting with the SDSms Manager servers.</string>
+    <string name="commErrorNotifyStatusTitle">SDSms Manager Notification</string>
+    <string name="commErrorNotifyStatusTicker">SDSms Manager Notification</string>
+    <string name="commErrorNotifyStatusMessage">There is an issue connecting with the SDSms Manager servers.</string>
+    <string name="commErrorNotifyEmailSubject">SDSms Manager Notification</string>
+    <string name="commErrorNotifyEmailMessage">SDSms Manager could not connect with its servers on TIMESTAMP.</string>
+
+    <string name="passwordChangeNotifyTitle">passwordChangeNotifyTitle</string>
+    <string name="passwordChangeNotifyMsg">passwordChangeNotifyMsg</string>
+    <string name="passwordChangeNotifyStatusTitle">passwordChangeNotifyStatusTitle</string>
+    <string name="passwordChangeNotifyStatusTicker">passwordChangeNotifyStatusTicker</string>
+    <string name="passwordChangeNotifyStatusMessage">passwordChangeNotifyStatusMessage</string>
+    <string name="passwordChangeNotifyEmailSubject">passwordChangeNotifyEmailSubject</string>
+    <string name="passwordChangeNotifyEmailMessage">passwordChangeNotifyEmailMessage</string>
+
+    <string name="confidentialEmailChangeNotifyTitle">SDSms Manager Change Notification</string>
+    <string name="confidentialEmailChangeNotifyMsg">Your Confidential Email Address has changed from OLD_EMAIL to NEW_EMAIL.</string>
+    <string name="confidentialEmailChangeNotifyStatusTitle">SDSms Manager Change Notification</string>
+    <string name="confidentialEmailChangeNotifyStatusTicker">SDSms Manager Change Notification</string>
+    <string name="confidentialEmailChangeNotifyStatusMessage">Your Confidential Email Address was changed at TIMESTAMP.</string>
+    <string name="confidentialEmailChangeNotifyEmailSubject">SDSms Manager Confidential Email Address Change</string>
+    <string name="confidentialEmailChangeNotifyEmailMessage">Your Confidential Email Address changed from OLD_EMAIL to NEW_EMAIL on TIMESTAMP.</string>
+
+    <string name="riskListUpdateNotifyTitle">SDSms Manager Update</string>
+    <string name="riskListUpdateNotifyMsg">SDSms Manager threat list will be updated.</string>
+    <string name="riskListUpdateNotifyStatusTitle">SDSms Manager Update</string>
+    <string name="riskListUpdateNotifyStatusTicker">SDSms Manager Update</string>
+    <string name="riskListUpdateNotifyStatusMessage">SDSms Manager is updating its threat list.</string>
+    <string name="riskListUpdateNotifyEmailSubject">SDSms Manager Update</string>
+    <string name="riskListUpdateNotifyEmailMessage">SDSms Manager threat list updated occurred at TIMESTAMP.</string>
+
+    <string name="appUpdateNotifyTitle">SDSms Manager Update</string>
+    <string name="appUpdateNotifyMsg">SDSms Manager is updating its software.</string>
+    <string name="appUpdateNotifyStatusTitle">SDSms Manager Update</string>
+    <string name="appUpdateNotifyStatusTicker">SDSms Manager Update</string>
+    <string name="appUpdateNotifyStatusMessage">SDSms Manager is updating its software.</string>
+    <string name="appUpdateNotifyEmailSubject">SDSms Manager Update</string>
+    <string name="appUpdateNotifyEmailMessage">SDSms Manager updated its software on TIMESTAMP.</string>
+
+</resources>

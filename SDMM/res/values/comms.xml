@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="noNetworkTitle">Network Error</string>
+    <string name="noNetworkMessage">Cannot connect to the network. Connection not available.</string>
+    <string name="commErrorTitle">Network Error</string>
+    <string name="commErrorMessage">Error communicating with server. Check your network connection or try again later.</string>
+    <string name="serverErrorTitle">Server Error</string>
+    <string name="serverErrorMessage">Error communicating with server. Please try again later.</string>
+    <string name="parseErrorTitle">Response Error</string>
+    <string name="parseErrorMessage">The server returned an invalid response. Please update your app or contact support.</string>
+    <string name="genericErrorTitle">Connection Error</string>
+    <string name="genericErrorMessage">A network error occurred. Please check your network connection.</string>
+</resources>

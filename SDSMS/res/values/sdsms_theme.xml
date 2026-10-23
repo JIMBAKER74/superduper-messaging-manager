@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- The name of the SMS/MMS app as it appears to the user in the Home screen, task switcher, etc. -->
+    <string name="app_label">Super Duper SMS</string>
+    
+    <string name="app_name">Super Duper SMS</string>
+    <string name="themePackagePrefix">com.superdupersms</string>
+    
+    <string name="smsSendReceiver">com.messagingappsllc.superdupermms.mms.transaction.SmsReceiver</string>
+    <string name="smsReceiveReceiver">com.messagingappsllc.superdupermms.mms.transaction.SmsReceiver</string>
+    
+</resources>

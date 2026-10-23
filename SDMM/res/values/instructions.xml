@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="instAppFoundWarningHeader">Alert</string>
+	<string name="instAppFoundWarningTitle">was found.</string>
+	<string name="instAppFoundWarningDescr">monitors SMS/text messages and may capture text messages at the same time this app does. 
+		If you have problems, such as duplicate messages, this may be the cause and you may want to uninstall it. 
+		\n\nPlease contact us if you have questions.</string>
+
+	<string name="instAppFoundErrorHeader">Warning - Bug Found</string>
+	<string name="instAppFoundErrorTitle">will cause problems on your system.</string>
+	<string name="instAppFoundErrorDescr">contains a bug.
+		The Android SMS_RECEIVED priority for $ is #. It should never exceed 999.
+		This could cause problems on your phone and possibly with this app.
+		\n\nWe recommend that you upgrade $ to see if it is fixed or uninstall. 
+		\n\nPlease contact us if you have questions.</string>
+	<string name="instAppFoundWarningDone">Done</string>
+	<string name="instAppFoundWarningMoreInfo">Tell\nMe More</string>
+	
+	<string name="instAppFoundScanTitle">Finishing install</string>
+	<string name="instAppFoundScanWarnTitle">Scanning</string>
+	<string name="instAppFoundScanMsg">Please wait...</string>
+
+	<string name="instAppFoundInvisible">Invisible</string>
+	<string name="instAppFoundFree">Free</string>
+	<string name="instAppFoundLicensed">Unlimited</string>
+	<string name="instSpaAppFoundHeader">SPA App Found</string>
+	<string name="instSpaAppFoundTitle">is a SPA App</string>
+	<string name="instSpaAppFoundOtherDescr">was found on your phone.
+		Thanks! Glad you like our apps!
+		\n\nBe careful not to put the same contact in more than one of our apps.
+		\n\nWe recommend you have only one installed SPA app at a time. 
+		\n\nPlease contact us if you have questions.</string>
+	<string name="instSpaAppFoundFreeDescr">is the free version of this SPA App.
+		We recommend you uninstall the free version so this app works properly. 
+		\nPlease contact us if you have questions.</string>
+	<string name="instSpaAppFoundPaidDescr">is the paid version of this SPA App.
+		We recommend you uninstall this app so it does not interfere with your paid app. 
+		\nPlease contact us if you have questions.</string>
+	<string name="instSpaAppFoundDone">Done</string>
+	
+    <string name="instContinueBtnTxt">Continue...</string>
+    <string name="instDoneBtnTxt">Done</string>
+	
+	<string name="instInitPassword"><b>Time to make a password</b>\n\nCreate any password you want! It can be any length - make it a single character!\n\n(You can change it later if you want - we don\'t ask you to change it.)</string>
+
+	<string name="initAuthHeader"><b>Login Instructions</b>\n\nThis will be your \"Login Screen\". Tap the highlighted button to see what it does.</string>
+	<string name="initAuthLoginTitle">Login Button</string>
+	<string name="initAuthLoginMsg">This button takes you to your regular text messages.</string>
+	<string name="initAuthSearchTitle">Search Button</string>
+	<string name="initAuthSearchMsg">This takes you to your <b>hidden</b> contacts, hidden messages and hidden call logs.</string>
+	<string name="initAuthConfigTitle">Configuration Button</string>
+	<string name="initAuthConfigMsg">This takes you to configuration options like change password, new shortcut icons and viewing the log file.</string>
+	<string name="initAuthFooter">Select the highlighted button to set up your contacts.\n\nUse your phone \"Menu\" button for Help at any time.\n\nWe hope you enjoy this app!</string>
+	<string name="initInstLblTxt"></string>
+	
+	<string name="contactSetupInstructionsTitle">Setup a Contact</string>
+	<string name="contactSetupInstructionsReminderTitle">Contact Setup Reminder</string>
+	<string name="contactSetupInstructions">
+		*Statusbar notification is on by default; scroll down for more options\n
+		\n*Please check that your contact has an area code/country code\n
+		\n*Once added, you can delete the contact from your regular contacts\n
+		\n*Press \"Menu\" for more information
+	</string>
+</resources>

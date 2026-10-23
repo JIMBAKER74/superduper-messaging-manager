@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources 
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <!-- text color-text_hairline=timestamp-message_count=indicator on contact screen-->
+    <color name="text_hairline">#aa333333</color>
+    <color name="message_count_color">#aa395366</color>
+    <color name="compose_edit_text_color">#FF333333</color>
+    <color name="bottom_panel_background">#FFe6e6e6</color>
+    <color name="message_sent">#FF333333</color>
+    <color name="message_received">#FF333333</color>
+    
+    <bool name="showAvatar">true</bool>
+    <bool name="fillMsgWidth">false</bool>
+    
+    <dimen name="leftMsgPadding">10sp</dimen> 
+    <dimen name="topMsgPadding">5sp</dimen> 
+    <dimen name="rightMsgPadding">10sp</dimen> 
+    <dimen name="bottomMsgPadding">5sp</dimen> 
+    
+    <bool name="use_divider_color">true</bool>
+    <color name="divider_left_color">#FF333333</color>
+    <color name="divider_center_color">#FF555555</color>
+    <color name="divider_right_color">#FF333333</color>
+    
+    <color name="contact_action_bar_color">#FF395366</color>
+    <color name="contact_list_item_color">#FF777777</color>
+    
+    <color name="action_seperator">#aaffffff</color>
+    
+    
+</resources>

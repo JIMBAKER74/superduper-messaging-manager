@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/instWhite"
+    tools:context="com.messagingappsllc.superdupermms.mms.ui.AboutPrivacy" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/aboutPrivacyOptionsLayout" >
+
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/aboutPrivacy1Lbl"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:padding="5dp"
+                    android:text="@string/aboutUsLbl1Txt"
+                    android:textColor="@color/instBlack" />
+
+                <TextView
+                    android:id="@+id/aboutPrivacyAppLbl"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="@color/instWhite"
+                    android:paddingBottom="5dp"
+                    android:text="@string/app_name"
+                    android:textColor="@color/instBlack" />
+
+                <TextView
+                    android:id="@+id/aboutPrivacy2Lbl"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@color/instWhite"
+                    android:padding="5dp"
+                    android:text="@string/aboutUsLbl2Txt"
+                    android:textColor="@color/instBlack" />
+
+                <TextView
+                    android:id="@+id/aboutPrivacy3Lbl"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@color/instWhite"
+                    android:padding="5dp"
+                    android:text="@string/aboutUsLbl3Txt"
+                    android:textColor="@color/instBlack" />
+
+                <TextView
+                    android:id="@+id/aboutPrivacySubLbl"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="@color/instWhite"
+                    android:paddingBottom="5dp"
+                    android:paddingTop="5dp"
+                    android:text="@string/aboutUsSubTitleLblTxt"
+                    android:textColor="@color/instBlack" />
+
+                <TextView
+                    android:id="@+id/aboutPrivacyTitleLbl"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="@color/instWhite"
+                    android:gravity="center"
+                    android:paddingTop="10dp"
+                    android:text="@string/privacyTitleTxt"
+                    android:textColor="@color/instBlack" />
+
+                <TextView
+                    android:id="@+id/aboutPrivacy4Lbl"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@color/instWhite"
+                    android:padding="5dp"
+                    android:text="@string/aboutUsLbl4Txt"
+                    android:textColor="@color/instBlack" />
+
+                <TextView
+                    android:id="@+id/aboutPrivacySeparator"
+                    style="?android:attr/listSeparatorTextViewStyle"
+                    android:layout_width="fill_parent"
+                    android:layout_height="4dp" />
+
+                <TextView
+                    android:id="@+id/aboutPrivacy4TxtLbl"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@color/instWhite"
+                    android:padding="5dp"
+                    android:text="@string/privacyNoticeSummaryTxt"
+                    android:textColor="@color/instBlack" />
+
+                <TextView
+                    android:id="@+id/aboutPrivacySeparator2"
+                    style="?android:attr/listSeparatorTextViewStyle"
+                    android:layout_width="fill_parent"
+                    android:layout_height="4dp" />
+
+                <TextView
+                    android:id="@+id/aboutPrivacyVersionLbl"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@color/instWhite"
+                    android:padding="5dp"
+                    android:text="@string/privacyNoticeTxt"
+                    android:textColor="@color/instBlack" />
+            </LinearLayout>
+        </ScrollView>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@id/aboutPrivacyOptionsLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/instBlack"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <CheckBox
+            android:id="@+id/aboutPrivacyAcceptChk"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dip"
+            android:onClick="termsCheck"
+            android:text="@string/privacyAcceptTermsChkTxt"
+            android:textColor="@color/instWhite"
+            android:textSize="16dp" />
+
+        <LinearLayout
+            android:id="@+id/aboutPrivacyButtonsLayout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/aboutPrivacyRejectBtn"
+                android:layout_width="wrap_content"
+                android:layout_height="48dp"
+                android:gravity="center"
+                android:minWidth="50dip"
+                android:onClick="termsReject"
+                android:text="@string/privacyRejectBtnTxt" />
+
+            <Button
+                android:id="@+id/aboutPrivacyAcceptBtn"
+                android:layout_width="wrap_content"
+                android:layout_height="48dp"
+                android:gravity="center"
+                android:maxHeight="48dp"
+                android:maxLines="2"
+                android:minWidth="50dip"
+                android:onClick="termsAccept"
+                android:text="@string/privacyAcceptBtnTxt" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

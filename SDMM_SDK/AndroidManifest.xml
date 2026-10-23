@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sdmmllc.superdupersmsmanager.sdk"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <permission android:name="com.sdmmllc.superdupersmsmanager.SEND_SMS"
+        android:label="@string/perm_send"
+        android:description="@string/permdescr_send"
+        android:protectionLevel="dangerous" />
+    <permission android:name="com.sdmmllc.superdupersmsmanager.WRITE_SMS"
+        android:label="@string/perm_send"
+        android:description="@string/permdescr_send"
+        android:protectionLevel="dangerous" />
+    
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.RECEIVE_MMS" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.WRITE_SMS" />
+    <uses-permission android:name="com.sdmmllc.superdupersmsmanager.SEND_SMS" />
+    <uses-permission android:name="com.sdmmllc.superdupersmsmanager.WRITE_SMS" />
+    
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:name="com.sdmmllc.superdupersmsmanager.sdk"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name" >
+
+		<receiver android:name="com.sdmmllc.superdupermm.SDSmsIntentReceiver" 
+		    android:enabled="true">
+			<intent-filter android:priority="-999">
+				<action android:name="android.intent.action.PACKAGE_REPLACED" />
+				<action android:name="android.intent.action.PACKAGE_INSTALL" />
+				<action android:name="android.intent.action.PACKAGE_ADDED" />
+				<action android:name="android.intent.action.PACKAGE_CHANGED" />
+				<data android:scheme="package" />
+			</intent-filter>
+		</receiver>
+    </application>
+    
+</manifest>

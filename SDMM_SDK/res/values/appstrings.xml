@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sdmm_app_version">3</string>
+    <string name="app_name">Super Duper SMS Manager</string>
+
+    <string name="perm_send">SEND SMS</string>
+    <string name="permdescr_send">This allows an app to send SMS messages using Super Duper SMS Manager</string>
+    
+    <string name="sdmmChangeDefSmsTitleTxt">Make \"Super Duper Messaging Manager\" Your Default SMS</string>
+    <string name="sdmmChangeDefSmsDescrTxt">Please set \"Super Duper SMS\" as your default SMS app.</string>
+    <string name="sdmmChangeDefSmsChangeTxt">Go Now</string>
+    <string name="sdmmChangeDefSmsNoChangeTxt">No Thanks</string>
+    
+	<string name="instKitKatFoundWarningTitle">Android \"KitKat\" Requires \"Super Duper Messaging Manager\"</string>
+	<string name="instKitKatFoundWarningDescr">Super Duper Messaging Manager is required for this app to work properly on Android \"KitKat\".
+	    \n\nKitKat completely changes the way that text messaging works. 
+	    Without a manager app, this app will not work properly.
+	    \n\nHowever, installing and using Super Duper Messaging Manager should be easy! Give it a try! 
+		\n\nPlease contact us if you have questions.</string>
+	<string name="instKitKatFoundWarningInstall">Go To Market</string>
+	<string name="instKitKatFoundWarningMoreInfo">No Thanks</string>
+			
+	<string name="sdmmVerifiedTitle">\"Super Duper Messaging Manager\" Verified</string>
+	<string name="sdmmVerifiedDescr">Super Duper Messaging Manager is installed and is working properly.
+	    \n\nThanks and please contact us with problems or questions.
+		</string>
+	<string name="sdmmVerifiedDone">Done</string>
+			
+	<string name="sdmmLaunchTitleTxt">Make \"Super Duper Messaging Manager\" Your Default SMS</string>
+    <string name="sdmmLaunchDescrTxt">Please set \"Super Duper SMS\" as your default SMS app.</string>
+    <string name="sdmmLaunchTxt">Go Now</string>
+    <string name="sdmmLaunchNoLaunchTxt">Cancel</string>
+    
+    <string name="sdmmVersion">1.00</string>
+</resources>

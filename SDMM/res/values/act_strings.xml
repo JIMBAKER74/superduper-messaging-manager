@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="homeActName">Super Duper Messaging Manager</string>
+    <string name="homeViewAppsStr">Manage Messaging Apps</string>
+    <string name="homeViewSettingsStr">Settings</string>
+    <string name="homeHeaderTxtStr">Welcome to</string>
+    <string name="homeTitleTxtStr">Super Duper Messaging Manager</string>
+    <string name="homeAppSelectorShowMoreBtnTxt">Show More</string>
+    <string name="homeAppSelectorRecommendTxt">Recommended Apps</string>
+    <string name="homeAppSelectorSeeMoreBtnTxt">See More</string>
+    <string name="homeAppSelectorWarningTxt">No Compatible Messaging Apps Found
+        To use Super Duper Messaging Manager, you need a compatible messaging app.
+        </string>
+    <string name="homeAppSelectorChangeDefSmsTxt">Make \"Super Duper Messaging Manager\" Your Default SMS</string>
+    <string name="homeAppSelectorChangeDefSmsDescrTxt">Please set \"Super Duper SMS\" as your default SMS app.</string>
+    <string name="homeAppSelectorChangeDefSmsChangeTxt">Go Now</string>
+    
+    <string name="welcomeCommentsLblTxt">Welcome to Super Duper Messaging Manager</string>
+    <string name="welcomeNextBtnTxt">Next</string>
+    <string name="welcomeTermsLinkLblTxt"><u>View Terms and Conditions</u></string>
+    <string name="welcomeIconHelp">Tap Icon to Launch-Long Hold to set as default</string>
+	    
+    <string name="aboutPrivacyActName">SDMM Privacy Policy / EULA</string>
+    
+    <string name="initialScanActName">SDMM Installation</string>
+    <string name="initialScanBtnTxt">Start Here</string>
+    <string name="initialScanBtnDoneTxt">Finished</string>
+    <string name="initialScanBtnTxtScanning">Scanning for apps that require SDMM...</string>
+    <string name="initialScanTitleTxt">SDMM Set Up</string>
+    <string name="initialScanTitleTxt2">Apps that Require SDMM</string>
+    <string name="initialScanItemDescr">This App Requires SDMM</string>
+    <string name="initialScanDescrTxt">Detect Messaging Apps</string>
+    <string name="initialScanDescrTxt2">Scan started...</string>
+    <string name="initialScanDescrTxt3">Apps scan complete</string>
+    <string name="initialScanBtnNoneTxt">None</string>
+    <string name="initialScanViewStartTitleTxt">Installation</string>
+    <string name="initialScanViewStartDescrTxt">SDMM will search for apps that require SDMM.</string>
+    <string name="initialScanViewStartTitle2Txt">Messaging App Management</string>
+    <string name="initialScanViewStartDescr2Txt">Super Duper Messaging Manager helps you manage your text messaging apps.
+        \n\nSDMM is not a messaging app, and not all messaging apps are compatible.
+    </string>
+    <string name="initialScanViewNonMessagingAppsTitleTxt">Apps Without Text / SMS Messaging</string>
+    <string name="initialScanViewNonMessagingAppsDescrTxt">Apps not using Text Messaging / SMS</string>
+    <string name="initialScanViewNonMessagingAppsBtnTxt">\?\?</string>
+    <string name="initialScanViewMessagingAppsTitleTxt">Text Messaging Apps</string>
+    <string name="initialScanViewMessagingAppsDescrTxt">Apps using Text Messaging</string>
+    <string name="initialScanViewMessagingAppsBtnTxt">\?\?</string>
+    <string name="initialScanViewDefaultMessagingAppsTitleTxt">Full Featured Text Messaging Apps</string>
+    <string name="initialScanViewDefaultMessagingAppsDescrTxt">Apps with Full Feature Text Messaging</string>
+    <string name="initialScanViewDefaultMessagingAppsBtnTxt">\?\?</string>
+    <string name="initialScanViewNextBtnTxt">Next</string>
+    
+    <string name="initialScanScanBtnProgressTxt">Scanning</string>
+    <string name="initialScanScanProgressDescrTxt">Initializing scan...</string>
+    <string name="initialScanScanProgressDescrTxt2">Scanning for SDMM compatible apps...</string>
+    <string name="initialScanScanProgressDescrTxt3">Compiling scan results...</string>
+    <string name="initialScanScanBtnCompleteTxt">New Scan</string>
+    <string name="initialScanScanTitleProgressTxt">Scanning for apps that require SDMM...</string>
+    <string name="initialScanScanTitleCompleteTxt">Scan Completed</string>
+    <string name="initialScanScanDescrProgressTxt">Scan is in progress now</string>
+    <string name="initialScanScanDescrCompleteTxt">Current scan results displayed below.</string>
+    
+    <string name="initialAppViewActName">SDMM Messaging Apps</string>
+    <string name="initialAppViewTitleTxt">Select a Messaging App</string>
+    <string name="initialAppViewDescrTxt">Select a full-featured messaging app to handle your text messages</string>
+    <string name="initialAppViewAppDownloadDescrTxt">SDMM Compatible - Download</string>
+    <string name="initialAppViewAppSelectDescrTxt">SDMM Compatible - Check to select</string>
+    <string name="initialAppViewAppNotSupportedDescrTxt">This app is not supported by SDMM</string>
+    <string name="initialAppViewViewNextBtnTxt">Next</string>
+    <string name="initialAppViewInstallBtnTxt">Install</string>
+    <string name="initialAppViewInstallBtnDetailsTxt">More</string>
+    
+    <string name="verifyAppsActName">SDMM Verify Apps</string>
+    <string name="verifyAppsTitleTxt">Verify SDMM Compatible Apps</string>
+    <string name="verifyAppsDescrTxt">Verify that all SDMM compatible apps are working.</string>
+    <string name="verifyAppsViewNextBtnTxt">Next</string>
+    <string name="verifyAppsVerifyBtnTxt">Enable Apps</string>
+    <string name="verifyAppsAppUpdateBtnTxt">Update</string>
+    <string name="verifyAppsUpdateApp">This app needs to be updated</string>
+    <string name="verifyAppsVerificationSent">Verifying...</string>
+    <string name="verifyAppsSecureDescrMsg">NOTE: After this installation, this app will not appear in SDMM as a text messaging app.</string>
+    <string name="verifyAppsSecureDescrHMTMsg">NOTE: This is a \"Hide My Text\" app. After this installation, this app will not appear in SDMM as a text messaging app.</string>
+    
+    <string name="initialAppSelectorActName">SDMM Set Default</string>
+    <string name="initialScanAppSelectorEnabledAppsTitleTxt">SMS Enabled Apps</string>
+    <string name="initialScanAppSelectorEnabledAppsBtnTxt">0</string>
+    <string name="initialScanAppSelectorViewNextBtnTxt">Manage Enabled Apps  \></string>
+    <string name="initialScanAppSelectorDescTxt">You Need a Compatible, Full-Featured Messaging App</string>
+    <string name="initialScanAppSelectorOtherAppsBtnTxt">0</string>
+    <string name="initialScanAppSelectorOtherAppsTitleTxt">Other Messaging Apps</string>
+    <string name="initialScanAppSelectorFeatureAppsBtnTxt">0</string>
+    <string name="initialScanAppSelectorFeatureAppsTitleTxt">Non-Compatible Messaging Apps</string>
+    <string name="initialScanAppSelectorCompatibleAppsBtnTxt">0</string>
+    <string name="initialScanAppSelectorCompatibleAppsTitleTxt">Compatible Messaging Apps</string>
+    <string name="initialScanAppSelectorCompatibleDescTxt">Select a compatible messaging app you use most often</string>
+    <string name="initialScanAppSelectorCompatibleDescTxt2">Select a messaging app from the options below.
+        We are working on adding more apps all the time, so come back into SDMM for more options or send us your suggestions. 
+        </string>
+    <string name="initialScanAppSelectorWarningTxt">No Compatible Messaging Apps Found
+        To use Super Duper Messaging Manager, you need a compatible messaging app.
+        </string>
+    <string name="initialScanAppSelectorTitleTxt">Make SDMM the \"Default SMS App\"</string>
+    <string name="initialScanAppSelectorTitleTxt2">Congratulations!\nSDMM is the \"Default SMS App\"</string>
+    <string name="initialScanAppSelectorSetDefaultBtnTxt">Set SDMM as Default</string>
+    <string name="initialScanAppSelectorDescrTxt">As the \"Default SMS App\" SDMM will send your messages to the app selected below.
+        You can change it at any time.</string>
+    <string name="initialScanAppSelectorNotDefaultWarningDescTxt">SDMM is NOT the \"Default SMS App\"
+        \nAny app that requires it will NOT work.</string>
+    <string name="initialScanAppSelectorAvailableBtnTxt">Install</string>
+    <string name="initialScanAppSelectorAvailableAppsLblTxt">GoTxt.me</string>
+    <string name="initialScanAppSelectorShowMoreBtnTxt">Show More</string>
+    <string name="initialScanAppSelectorRecommendTxt">Apps on Google Play</string>
+    <string name="initialScanAppSelectorSeeMoreBtnTxt">See More</string>
+    <string name="initialScanAppSelectorNextBtnTxt">Next</string>
+    <string name="initialScanAppSelectorDoneBtnTxt">Done</string>
+    <string name="initialScanAppSelectorDoneLblTxt"></string>
+    
+    <string name="viewAppsActName">App Categories</string>
+    <string name="viewAppsCategoryTitleTxt">Categories</string>
+    <string name="viewAppsFullTitleTxt">Full Featured Msg Apps</string>
+    <string name="viewAppsFullDescrTxt">Default messaging apps</string>
+    <string name="viewAppsAntispamAppsTitleTxt">Anti-Spam Apps</string>
+    <string name="viewAppsAntispamAppsDescrTxt">Blocker apps using sms</string>
+    <string name="viewAppsPluginTitleTxt">SMS Plugin Apps</string>
+    <string name="viewAppsPluginDescrTxt">SMS Special Features</string>
+    <string name="viewAppsResponderTitleTxt">Auto-Responder Apps</string>
+    <string name="viewAppsResponderDescrTxt">SMS Autoresponce</string>
+    <string name="viewAppsBackupTitleTxt">Backup/Recovery Apps</string>
+    <string name="viewAppsBackupDescrTxt">SMS Data Backup and Recovery</string>
+    <string name="viewAppsOtherTitleTxt">Other SMS Apps</string>
+    <string name="viewAppsOtherDescrTxt">Not Compatible with SDMM</string>
+    <string name="viewAppsNotSupportedTitleTxt">App Not Supported</string>
+    <string name="viewAppsNotSupportedDescrTxt">This app is not supported by SDMM. 
+        Some apps do not yet support the features that SDMM provides.
+        We are working to get as many apps to support SDMM as possible.
+        You can contact us or them to request SDMM integration or please select an app that is supported.
+        If you are interested in creating an app that is supported, please see \"About Us\"</string>
+    
+    <string name="appsListActName">Installed Apps</string>
+    <string name="appsListTitleTxt">App Category</string>
+    <string name="appsListTitlePkgLbl">Package name:</string>
+    <string name="appsListTitleSysApp"><b><i>This app is a SYSTEM installed app</i></b></string>
+    <string name="appsListTitleKitKatMessaging">This app is capable of being the \"Default Messaging App\"
+        on your device.</string>
+    
+    <string name="sms_send_number_new_hint">Enter number</string>
+    <string name="sms_send_new_hint">Compose Message</string>
+    <string name="sms_send_disabled">Send Disabled</string>
+    <string name="send_sms_button_txt">Send</string>
+    <string name="send_sms_intent_button_txt">Send Intent</string>
+    <string name="sms_empty_list">No Messages</string>
+    <string name="set_default_sms_button_txt">Change Default SMS</string>
+    
+    <string name="menuHelp">Help</string>
+</resources>

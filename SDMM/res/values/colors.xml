@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="sdmmWhite">#FFFFFFFF</color>
+    <color name="sdmmBlue">#FF3C77C6</color>
+    <color name="sdmmBlue2">#AA0078C6</color>
+    <color name="sdmmYellow">#FFf0e22f</color>
+    <color name="sdmmRed">#FFD30024</color>
+    <color name="sdmmRed2">#AAD70022</color>
+    <color name="sdmmGreen">#FF35a844</color>
+    <color name="sdmmBlack">#FF000000</color>
+    <color name="sdmmGray">#FF777777</color>
+    <color name="sdmmMidGray">#FF555555</color>
+    <color name="sdmmBgGray">#FF333333</color>
+    
+    <color name="selectorItemBackground">#FF555555</color>
+    <color name="selectorItemHighlight">#FF0078C6</color>
+    <color name="selectorWarningBackground">#FF333333</color>
+    <color name="selectorWarningTextBackground">#FFD70022</color>
+    <color name="selectorMarketBackground">#FFDDDDDD</color>
+    <color name="selectorMarketSeeMore">#FF99CC00</color>
+    
+    <color name="instTransparent">#00000000</color>
+	<color name="instTextColor">#FF999900</color>
+	<color name="instBlack">#FF000000</color>
+	<color name="instWhite">#FFFFFFFF</color>
+	<color name="instVeryLightGray">#FFD5D5D5</color>
+	<color name="instLightGray">#FFC5C5C5</color>
+	<color name="instMediumGray">#FFA0A0A0</color>
+	<color name="instGray">#FF222222</color>
+	<color name="instDarkGray">#FF111111</color>
+	<color name="instVeryDarkGray">#FF070707</color>
+	<color name="instVeryDarkBrown">#FF1C1209</color>
+	<color name="instDarkGreen">#FF002200</color>
+	<color name="instMediumGreen">#FF043A04</color>
+	<color name="instGreen">#FF045004</color>
+	<color name="instLightGreen">#FF049004</color>
+	<color name="instLightBlue">#FF1010BB</color>
+	<color name="instDarkBlue">#FF000022</color>
+	<color name="instDeepBlue">#FF050535</color>
+	<color name="instBlue">#FF050550</color>
+	<color name="instDarkRed">#FF220000</color>
+	<color name="instPurple">#FF501940</color>
+	<color name="instPink">#FFAA5090</color>
+	<color name="instLightPink">#FFFFA0DD</color>
+	<color name="instOrange">#FFFFAA87</color>
+	<color name="instBtnHighlight">#FFAAAAAA</color>
+	<color name="instBtnLowlight">#FF444444</color>
+
+</resources>

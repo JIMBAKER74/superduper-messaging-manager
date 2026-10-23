@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/homeLauncherAppsBackground"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:background="@color/sdmmBgGray"
+	>
+    <ImageView 
+	    android:id="@+id/homeLauncherIcon"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:paddingTop="10dp"
+		android:paddingLeft="20sp"
+		android:paddingRight="20sp"
+		android:layout_centerHorizontal="true"
+		android:layout_marginTop="5dp"
+		android:layout_marginLeft="5dp"
+		android:layout_marginRight="5dp"
+		android:background="@color/sdmmBgGray"
+		/>
+	<TextView
+		android:id="@+id/homeLauncherDesc"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/homeLauncherIcon"
+		android:text="@string/initialScanAppSelectorCompatibleDescTxt"
+		android:textColor="@color/sdmmWhite"
+		android:padding="5dp"
+		android:layout_marginBottom="5dp"
+		android:background="@color/sdmmBgGray"
+		android:layout_centerHorizontal="true"
+		android:gravity="center"
+		android:layout_alignLeft="@id/homeLauncherIcon"
+		android:layout_alignRight="@id/homeLauncherIcon"
+		android:textAppearance="?android:attr/textAppearanceSmall"
+		/>
+</RelativeLayout>

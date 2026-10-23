@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aboutUsActName">About Us</string>
+    <string name="aboutUsTitleLblTxt"><b>Super Duper Messaging Manager</b></string>
+    <string name="aboutUsLbl1Txt">In the Applications list as:</string>
+    <string name="app_name">Super Duper SMS</string>
+    <string name="aboutUsLbl2Txt">What is SuperDuper?</string>
+    <string name="aboutUsLbl3Txt">SuperDuper is the alternative to Default Text Messaging</string>
+    <string name="aboutUsLbl4Txt">Why Super Duper?</string>
+    <string name="aboutUsLbl5Txt">Because there still are a few of us that like variety and personalization with it comes to text messaging.</string>
+    <string name="aboutUsLbl6Txt">Who is Super Duper?</string>
+    <string name="aboutUsLbl7Txt">Super Duper was founded by a couple of guys that will never be too old to end a text with LOL.</string>
+   	<string name="aboutUsLbl8Txt">Find us online at http://www.superdupersms.com or email us at support@superdupersms.com</string>
+	<string name="aboutUsSubTitleLblTxt"><i>Super Duper Messaging Manager</i></string>
+    
+</resources>

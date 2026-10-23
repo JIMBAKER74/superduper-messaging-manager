@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+	android:layout_gravity="center_horizontal"
+    >
+	<TextView
+	    android:id="@+id/appsListTitle"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+      	android:layout_alignParentTop="true" 
+		android:textColor="@android:color/white"
+		android:text="@string/appsListTitleTxt"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:gravity="center"
+		android:background="@android:color/holo_blue_light"
+		/>
+	<LinearLayout
+		android:id="@+id/appsListAd"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/appsListTitle"
+		android:orientation="horizontal"
+		/>
+	<LinearLayout
+		android:id="@+id/appsListLayout"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/appsListAd"
+		android:orientation="horizontal"
+		>		
+		<ListView
+		    android:id="@+id/android:list"
+		    android:layout_width="match_parent"
+		    android:layout_height="match_parent"
+		    />
+		<TextView
+		    android:id="@+id/android:empty"
+		    android:layout_width="match_parent"
+		    android:layout_height="match_parent"
+		    android:text="@string/scanListEmpty"
+		    />
+	</LinearLayout>
+</RelativeLayout>
