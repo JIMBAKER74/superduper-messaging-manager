@@ -1,6 +1,6 @@
 # Super Duper Messaging Manager
 
-> **Archived.** This is a 2012–2014 Android project, published in 2026 as part of my engineering history. It targets the Android SDK and Eclipse ADT toolchain of its time and will not build on a current toolchain without work. It is here to be read, not run. Issues and pull requests are not monitored.
+> **Archived.** I created this SMS app and manager back around 2012–2014 Android project. I recently decided to publish it (2026) as part of my engineering history. It targets the Android SDK and Eclipse ADT toolchain from "back in the early days of Android" and will not build on a current toolchain without work. It is here to be read, not run. Issues and pull requests are not monitored.
 
 An SMS/MMS replacement for Android (2012–2014) with a theming system and an SDK (`SDMM_SDK`) so other apps could use the messaging layer. Packages `com.sdmmllc.*` and `com.messagingappsllc.*` are my own companies from that era, SDMM LLC and MessagingApps LLC. `MessagingAppsLib` is derived from the AOSP Mms application (Apache-2.0; headers intact).
 
